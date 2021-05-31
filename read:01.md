@@ -14,13 +14,13 @@
 * Write a commit message that describes your changes.
 * Click Commit changes button.
 
-## Github page will convert your markdown , apply theme and bublish it .
+## Github page will convert your markdown , apply theme and publish it .
 # What is the markdown ?
 **Is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown.**
 
 # some example 
  * For the header to apply h1 write  # before the word, for h2 write ## before the word.
- * To make the  bold for a word but it bettwen double stars ** 
+ * To make the  bold for a word but it between double stars ** 
  * To make the word italic but it between stars *_* or dashes -_- 
  
 *To know more details visit the site* [Markdown](https://guides.github.com/features/mastering-markdown/)
