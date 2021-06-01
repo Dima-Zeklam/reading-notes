@@ -7,5 +7,5 @@
 
 Name   |  Link
 ------ | ------
-read01 | [read01](https://replit.com/@DimaZiklam/reading-notes-1#read:01.md)
+lab | [lab](https://dima-zeklam.github.io/reading-notes/lab1)
     
