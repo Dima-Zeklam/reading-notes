@@ -5,7 +5,7 @@
 
 # Table of content
 
-Name   |  Link
+Name    |  Link
 ------ | ------
-lab | [lab](https://dima-zeklam.github.io/reading-notes/lab1)
+growth mindset | [write click here](https://dima-zeklam.github.io/reading-notes/lab1)
     
