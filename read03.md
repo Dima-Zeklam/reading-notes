@@ -10,20 +10,20 @@
 3. *The content*: This is the content of the element, which in this case, is just text.
 4. *The element*: The opening tag, the closing tag, and the content together comprise the element.Elements can also have attributes that look like the following:
 ![attributes](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics/grumpy-cat-attribute-small.png)
-----
+
+-----
 ### An attribute should always have the following:
 #### 1. A space between it and the element name (or the previous attribute, if the element already has one or more attributes).
 #### 2. The attribute name followed by an equal sign.
 #### 3. The attribute value wrapped by opening and closing quotation marks.
 
-# 
 
 ## What UX mean ?
 
 ### User experience [UX](https://careerfoundry.com/en/courses/become-a-ux-designer/) refers to any interaction a user has with a product or service. UX design considers each and every element that shapes this experience, how it makes the user feel, and how easy it is for the user to accomplish their desired tasks. This could be anything from how a physical product feels in your hand, to how straightforward the checkout process is when buying something online.
 -----
 ### The gole of UX is :
- #### To create easy, efficient,relevant and all-round pleasant experiences for the user.
+#### To create easy, efficient,relevant and all-round pleasant experiences for the user.
 
 # Wireframe 
 ### is a practice used by UX designers which allows them to define and plan the information hierarchy of their design for a website, app, or product. 
@@ -46,7 +46,7 @@
 * ### Draft, don’t draw. Sketch, don’t illustrate
 * ### Add some detail and get testing
 * ### Start turning your wireframes into prototypes
----
+----
 ### There three points should be at the forefront of your mind when building your wireframe:
 
 #### 1. Clarity
@@ -60,7 +60,7 @@
 ### Semantics in JavaScript 
 
  In JavaScript, consider a function that takes a string parameter, and returns an <li> element with that string as its textContent.
- *Know more about : * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+ *Know more about :* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
 ---
 ### Semantics in CSS
