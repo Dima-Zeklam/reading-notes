@@ -53,7 +53,6 @@
 #### 2. Confidence
 #### 3. Simplicity is key
 
-
 # Semantics
 #### In programming, Semantics refers to the meaning of a piece of code
 
@@ -66,7 +65,7 @@
 ### Semantics in CSS
 
 In CSS, consider styling a list with li elements representing different types of fruits.
---- 
+----
 
 ### Semantics in HTML
 In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
