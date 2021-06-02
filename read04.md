@@ -7,8 +7,7 @@
 ## What is CSS for?
 #### for specifying  how documents are presented to users — how they are styled, laid out, etc.
 
-
-## some example 
+## Some example
 * The following code shows a very simple CSS rule that would achieve the styling described above:
 
  `h1 {
