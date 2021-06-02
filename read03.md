@@ -1,7 +1,7 @@
 # HTML 
 ![HTML](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png)
 ## What is HTML ?
-### HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content, we mean with markup Tags like <p>,<body> and HTML is not WYSWYGm and e use HTML to structure and content to our pages.
+### HTML (Hypertext Markup Language) is the code that is used to structure a web page and its content, we mean with markup Tags like <p>,<body> and HTML is not WYSWYG and use HTML to structure and content to our pages.
 
 ## The main parts of our element are as follows:
 1. *The opening tag* : This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets.
