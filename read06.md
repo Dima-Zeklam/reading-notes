@@ -68,7 +68,7 @@ Long Date	|"Mar 25 2015" or "25 Mar 2015"
 
 **The try statement allows you to define a block of code to be tested for errors while it is being executed.**
 
-***The catch statement allows you to define a block of code to be executed, if an error occurs in the try block.**
+**The catch statement allows you to define a block of code to be executed, if an error occurs in the try block.**
 
 >`try {
   Block of code to try
@@ -79,7 +79,8 @@ catch(err) {
 
 **JavaScript Throws Errors When an error occurs, JavaScript will normally stop and generate an error message.**
 
-**The technical term for this is: JavaScript will throw an exception (throw an error). THe exception can be a JavaScript String, a Number, a Boolean or an Object: **
+**The technical term for this is: JavaScript will throw an exception (throw an error). THe exception can be a JavaScript String, a Number, a Boolean or an Object:**
+
 
 > `throw "Too big";    // throw a text`
 
