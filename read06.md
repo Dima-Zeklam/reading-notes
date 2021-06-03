@@ -14,8 +14,7 @@
 2. #### JavaScript follows the syntax and structure of the C programming language. Thus, it is a structured programming language.
 3. #### JavaScript is a weakly typed language, where certain types are implicitly cast (depending on the operation).
 4. #### JavaScript is an object-oriented programming language that uses prototypes rather than using classes for inheritance.
-5. #### It is a light-weighted and interpreted language.
-It is a case-sensitive language.
+5. #### It is a light-weighted and interpreted language it is a case-sensitive language.
 6. #### JavaScript is supportable in several operating systems including, Windows, macOS, etc.
 7. #### It provides good control to the users over the web browsers.
 
@@ -28,11 +27,11 @@ It is a case-sensitive language.
 
 ## JavaScript variables can hold many data types: numbers, strings, objects and more: 
                                                             
-`Var length = 16;                               // Number`
+>`Var length = 16;                               // Number`
 
-`var lastName = "Johnson";                      // String`
+>`var lastName = "Johnson";                      // String`
 
-`var x = {firstName:"John", lastName:"Doe"};    // Object`
+>`var x = {firstName:"John", lastName:"Doe"};    // Object`
 
 
 ## JavaScript Function
@@ -40,13 +39,15 @@ It is a case-sensitive language.
 
 **A JavaScript function is executed when "something" invokes it (calls it).**
 
-`function myFunction(p1, p2) {
+>`function myFunction(p1, p2) {
   return p1 * p2;   // The function returns the product of p1 and p2
 }`
 
 ## JavaScript Date Input
 
-** There are generally 3 types of JavaScript date input formats:** 
+
+#### There are generally 3 types of JavaScript date input formats:
+
 
 Type |	Example
 ------|--------
