@@ -11,7 +11,7 @@ Name                    |	Shorthand operator   |  Meaning
 Assignment              |	x = y	               | x = y
 
 - Destructuring
->var foo = ['one', 'two', 'three'];
+ >var foo = ['one', 'two', 'three'];
 
  >// without destructuring
 
@@ -43,28 +43,23 @@ Bitwise OR assignment	|x = y	| x = x \| y
 #### A comparison operator compares its operands and returns a logical value based on whether the comparison is true.
 
 
-  Operator       | 	Description    |  Comparing| return
------------------|-----------------|-----------|--------
-== |	equal to	| x == 8 |	false	
-| | | x == 5	|true	
-| | | x == "5"	|true	
+  Operator | 	Description    |  Comparing| return
+-----------|-----------------|-----------|--------
+==          |	equal to      	| x == 8     |  	false	
 ===	| equal value and equal type|	x === 5	|true	
-| | |x === "5"|	false	
 !=	|not equal	|x != 8	|true	
 !==	 |not equal value or not equal type|	x !== 5|	false	
-|||x !== "5"|	true	
-| | | x !== 8 |	true	
 \> |	greater than|	x > 8|	false	
 \< |	less than|	x < 8	|true	
 \>= |	greater than or equal to|	x >= 8	|false	
 <= |	less than or equal to|x <= 8|	true
 
 ### 4. Logical operators
-Name                    |	Shorthand operator   |  Meaning
-------------------------|----------------------|-----------
-Logical AND assignment|x &&= y	|x && (x = y)
-Logical OR assignment|	x \|\|= y	 | x  \|\| (x = y)
-Logical nullish assignment	|x ??= y          |	x ?? (x = y)
+Name                      |	Shorthand operator   |  Meaning
+--------------------------|----------------------|-----------
+Logical AND assignment    |  x &&= y	             |x && (x = y)
+Logical OR assignment     |	 x \|\|= y	           | x  \|\| (x = y)
+Logical nullish assignment|  x ??= y               |	x ?? (x = y)
 
 
 ### 5. Arithmetic operators 
@@ -103,7 +98,7 @@ Exponentiation assignment|	x \**= y         	| x = x \** y
  > function square(number) { return number * number;
 }
  
-- Such a function can be anonymous; it does not have to have a name. For example, the function square could have been defined as:
+- Such a function can be anonymous; it does not have to have a name. For example, the   function square could have been defined as:
  > const square = function(number) { return number * number }
 
  > var x = square(4) // x gets the value 16
