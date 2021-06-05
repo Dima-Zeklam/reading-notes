@@ -17,13 +17,13 @@ Assignment              |	x = y	               | x = y
 
  >var one   = foo[0];
 
-  >var two   = foo[1];
+ >var two   = foo[1];
 
  >var three = foo[2];
 
-  >// with destructuring
+ >// with destructuring
 
-  >var [one, two, three] = foo;
+ >var [one, two, three] = foo;
 
 
 
@@ -55,11 +55,12 @@ Bitwise OR assignment	|x = y	| x = x \| y
 <= |	less than or equal to|x <= 8|	true
 
 ### 4. Logical operators
+
 Name                      |	Shorthand operator   |  Meaning
---------------------------|----------------------|-----------
-Logical AND assignment    |  x &&= y	             |x && (x = y)
-Logical OR assignment     |	 x \|\|= y	           | x  \|\| (x = y)
-Logical nullish assignment|  x ??= y               |	x ?? (x = y)
+--------------------------|----------------------|----------------
+Logical AND assignment    |  x &&= y	           |x && (x = y)
+Logical OR assignment     |	 x \|\|= y	         | x  \|\| (x = y)
+Logical nullish assignment|  x ??= y             |	x ?? (x = y)
 
 
 ### 5. Arithmetic operators 
@@ -99,6 +100,7 @@ Exponentiation assignment|	x \**= y         	| x = x \** y
 }
  
 - Such a function can be anonymous; it does not have to have a name. For example, the   function square could have been defined as:
+
  > const square = function(number) { return number * number }
 
  > var x = square(4) // x gets the value 16
