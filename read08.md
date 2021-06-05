@@ -24,18 +24,21 @@ while (condition);
   statement
 
 ### 4. for...in statement 
+
 #### The for...in statement iterates a specified variable over all the enumerable properties of an object. For each distinct property, JavaScript executes the specified statements. A for...in statement looks as follows:
 
 >for (variable in object)
   statement
 
   ### 5. for...of statement
+
   #### The for...of statement creates a loop Iterating over iterable objects (including Array, Map, Set, arguments object and so on), invoking a custom iteration hook with statements to be executed for the value of each distinct property.
 
   >for (variable of object)
   statement
 
   ## Arrays
+
   #### Although it may be tempting to use this as a way to iterate over Array elements, the for...in statement will return the name of your user-defined properties in addition to the numeric indexes.
 
 ## labeled statement
