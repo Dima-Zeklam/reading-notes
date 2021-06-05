@@ -98,13 +98,30 @@ Exponentiation assignment|	x \**= y         	| x = x \** y
 ## Functions
 #### Functions are one of the fundamental building blocks in JavaScript. A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
 
-#### For example, the following code defines a simple function named square:
+- For example, the following code defines a simple function named square:
 
->function square(number) {
-  return number * number;
+ > function square(number) { return number * number;
 }
+ 
+- Such a function can be anonymous; it does not have to have a name. For example, the function square could have been defined as:
+ > const square = function(number) { return number * number }
 
-#### Such a function can be anonymous; it does not have to have a name. For example, the function square could have been defined as:
->const square = function(number) { return number * number }
+ > var x = square(4) // x gets the value 16
 
->var x = square(4) // x gets the value 16
+- The eval() function evaluates JavaScript code represented as a string.
+
+### Nested functions and closures
+#### To summarize:
+
+- The inner function can be accessed only from statements in the outer function.
+
+- The inner function forms a closure: the inner function can use the arguments and variables of the outer function, while the outer function cannot use the arguments and variables of the inner function.
+
+## Control flow
+The control flow is the order in which the computer executes statements in a script.
+
+Code is run in order from the first line in the file to the last line, unless the computer runs across the (extremely frequent) structures that change the control flow, such as conditionals and loops. 
+
+
+### read more about   [Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#recursion) , [Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects) , [Statements (Control flow) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling).
+
