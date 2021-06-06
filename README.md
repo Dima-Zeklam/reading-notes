@@ -8,4 +8,5 @@
 Name    |  Link
 ------ | ------
 growth mindset | [write click here](https://dima-zeklam.github.io/reading-notes/lab1)
+
     
