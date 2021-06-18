@@ -75,6 +75,21 @@ separated by an equals sign.
 
 
 ## Body, Head & Title in HTML
+#### Example
+ 
+><html>
+
+>	<head>
+		<title>View the Source of This Page</title>
+	</head>
+	<body>
+		<h1>How to View the Source of This Page</h1>
+		<p>If you go to your web browser's View menu, you will see an option that allows you to see the source code behind a web page.</p>
+		<p>When the web was first taking off this was a very popular way for people to learn how web pages had been built.</p>
+		<p>Today, people still often view the source of pages to learn how a web page has been built.</p>
+	</body>
+</html>
+
 
 You met the **<body>** element
 in the first example we created.
@@ -94,15 +109,12 @@ You will usually find a <title>
 element inside the <head>
 element.
 
-The contents of the **<title>**
-element are either shown in the
-top of the browser, above where
-you usually type in the URL of
-the page you want to visit, or
-on the tab for that page (if your
-browser uses tabs to allow you
-to view multiple pages at the
+The contents of the **<title>** element are either shown in the
+top of the browser, above where you usually type in the URL of
+the page you want to visit, or on the tab for that page (if your
+browser uses tabs to allow you to view multiple pages at the
 same time).
+
 
 ![pic](pictures/pic5.png)
 
@@ -110,6 +122,11 @@ same time).
 ## Code in a Content Management System
 The advantage of this approach is that people who do not know how to write web pages can add information to a website and it is also possible to change the presentation of something in the template, and it will automatically update every page that uses that template. If you imagine an e-commerce store with 1,000 items for sale, just altering one template is a lot easier than changing the page for each individual product. In systems like this, when you have a large block of text that you can edit, such as a news article, blog entry or the
 description of a product in an e-commerce store, you will often see a text editor displayed.
+
+#### Some content management systems offer tools that also allow you to edit the template files. If you do try to edit template files you need to check the documentation for your CMS as they all differ from each other. You need to be careful when editing template files because if you delete the wrong piece of code or add something in the wrong place the site may stop working entirely.
+
+
+
 
 
 
