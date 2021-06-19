@@ -77,20 +77,24 @@ separated by an equals sign.
 ## Body, Head & Title in HTML
 #### Example
  
-><html>
 
->	<head>
-		<title>View the Source of This Page</title>
-	</head>
+```
+<html>
 	<body>
-		<h1>How to View the Source of This Page</h1>
-		<p>If you go to your web browser's View menu, you will see an option that allows you to see the source code behind a web page.</p>
-		<p>When the web was first taking off this was a very popular way for people to learn how web pages had been built.</p>
-		<p>Today, people still often view the source of pages to learn how a web page has been built.</p>
+		<h1>This is the Main Heading</h1>
+		<p>This text might be an introduction to the rest of the page. And if the page is a 
+			 long one it might be split up into several sub-headings.<p>
+		<h2>This is a Sub-Heading</h2>
+		<p>Many long articles have sub-headings so to help you follow the structure of what 
+			 is being written. There may even be sub-sub-headings (or lower-level headings).
+			 </p>
+		<h2>Another Sub-Heading</h2>
+		<p>Here you can see another sub-heading.</p>
 	</body>
 </html>
+```
 
-
+---
 You met the **<body>** element
 in the first example we created.
 Everything inside this element is
@@ -126,7 +130,34 @@ description of a product in an e-commerce store, you will often see a text edito
 #### Some content management systems offer tools that also allow you to edit the template files. If you do try to edit template files you need to check the documentation for your CMS as they all differ from each other. You need to be careful when editing template files because if you delete the wrong piece of code or add something in the wrong place the site may stop working entirely.
 
 
+## The Evolution of HTML
 
+###  HTML 4 Released 1997
+HTML 4 had some
+presentational elements to control the appearance of pages, authors are not recommended to use them any more. (Examples include the <center> element for centering content on a page, <font> for  controlling the appearance of text, and <strike> to put a line through
+the text — all of these can be achieved with CSS instead.)
 
+### XHTML 1.0 Released 2000
+
+In 1998, a language called XML was published. Its purpose was to allow people to write new markup languages. Since HTML was the most widely used markup language around, it was decided that HTML 4 should be reformulated to follow the rules of XML and it was renamed XHTML. This meant that authors had to follow some new, more strict rules about writing markup. For example:
+
+* Every element needed a closing tag (except for empty elements such as <img />).
+
+* Attribute names had to be in lowercase.
+* All attributes required a value, and all values were to be placed in double quotes.
+* Deprecated elements should no longer be used.
+* Every element that was opened inside another element should be closed inside that same element.
+
+####  XHTML 1.0 have three versions:
+*1. **Strict XHTML 1.0**, where authors had to follow the rules to the letter.*
+
+*2.  **Transitional XHTML 1.0**, where authors could still use 
+presentational elements (such as <center> and <font>).*
+
+*3. **XHTML 1.0 Frameset**, which allowed web page authors to partition
+a browser window into several "frames," each of which would hold a different HTML page.*
+
+### HTML5 Released 2000
+In HTML5, web page authors do not need to close all tags, and new elements and attributes will be introduced.
 
 
