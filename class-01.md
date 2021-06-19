@@ -1,22 +1,7 @@
 # HTML 
-You may know that HTML
-stands for HyperText Markup
-Language. The HyperText part
-refers to the fact that HTML
-allows you to create links that
-allow visitors to move from one
-page to another quickly and
-easily. A markup language allows
-you to annotate text, and these
-annotations provide additional
-meaning to the contents of a
-document. If you think of a web
-page, we add code around the
-original text we want to display
-and the browser then uses
-the code to display the page
-correctly. So the tags we add are
-the markup.
+You may know that HTML stands for HyperText Markup Language. The HyperText part refers to the fact that HTML allows you to create links that allow visitors to move from one page to another quickly and
+easily. A markup language allows you to annotate text, and these annotations provide additional meaning to the contents of a document. If you think of a web page, we add code around the original text we want to display and the browser then uses the code to display the page
+correctly. So the tags we add are the markup.
 ## How people access the web?
 * People can access  the web by using devices such as desktop computer, laptops, tablets, mobile phones, each one have a different screen size and some have faster connections to the web than others.
 
@@ -159,5 +144,64 @@ a browser window into several "frames," each of which would hold a different HTM
 
 ### HTML5 Released 2000
 In HTML5, web page authors do not need to close all tags, and new elements and attributes will be introduced.
+
+## DOCTYPES
+
+#### HTML5
+
+> <!DOCTYPE html>
+
+#### HTML4
+
+><!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+#### Transitional XHTML 1.0
+
+><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/ xhtml1-transitional.dtd">
+
+#### Strict XHTML 1.0
+
+><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/ xhtml1-strict.dtd">
+
+#### XML Declaration
+
+>?xml version="1.0" ?>
+
+## Comments in HTML
+
+by using **<!-- -->** if you want to add a comment to your code that will not be visible in the user's browser, you can add the text between these characters:
+
+`<!-- comment goes here -->`
+
+Comments can also be used
+around blocks of code to stop
+that code from being displayed
+in the browser. In the example on
+the left, the email link has been
+commented out.
+
+## ID Attribute
+**The id attribute is known as a global attribute because it can
+be used on any element.**
+
+It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a
+number or any other character).
+It is important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique).
+
+*Example:*
+
+> <p id="pullquote">Every time I view the sea I feel a calming sense of security, as if visiting my ancestral home; I embark on a voyage of seeing. </p>
+
+
+## Class Attribute
+**The class attribute on any element can share the same value.**
+
+![pic](pictures/pic7.png)
+
+You might  some paragraphs of text that contain information that is more important than others and want to distinguish these elements, or
+you might want to differentiate between links that point to other pages on your own site and links that point to external sites. To do this you can use the class attribute. Its value should describe the class it belongs to. In the example above, key paragraphs have a class attribute whose value is important.
+
+ *If you would like to indicate that an element belongs to several classes, you can separate class names with a space, as you can see in the third paragraph in the
+example above.*
 
 
