@@ -98,7 +98,7 @@ You will usually find a <title>
 element inside the <head>
 element.
 
-The contents of the **<title>** element are either shown in the
+The contents of the title element are either shown in the
 top of the browser, above where you usually type in the URL of
 the page you want to visit, or on the tab for that page (if your
 browser uses tabs to allow you to view multiple pages at the
@@ -240,6 +240,11 @@ content="Fri, 04 Apr 2014 23:59:59 GMT" />
 #### New Html 5 Layout Elements
 ![pic](pictures/pic9.png)
 
-** HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already. **
+**HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already.**
 
-
+## The ABC of programming
+#### What is a script and how do i create one?
+* A script is a series of instructions that the computer can follow in order to achieve a goal.
+* Each time the script runs, it might only use a subset of all the instructions.
+* Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+* To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
