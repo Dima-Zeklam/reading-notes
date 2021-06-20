@@ -23,4 +23,4 @@ JavaScript Loops and iteration | [right click here](https://dima-zeklam.github.i
 Name    |  Link
 ------ | ------
 HTML & css & JavaScript | [right click here](https://dima-zeklam.github.io/reading-notes/class-01)
-
+Basics of HTML, CSS & JS | [right click here](https://dima-zeklam.github.io/reading-notes/class-02)

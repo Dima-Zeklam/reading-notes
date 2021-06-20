@@ -1,4 +1,5 @@
-# Text in HTML
+# Basics of HTML, CSS & JS 
+## Text in HTML
 ### HTML has six "levels" of headings:
 
 ```
@@ -85,7 +86,7 @@ Type Selector     | Matches element names | h1, h2, h3 {}
 Chil d Selector   |Matches an element that is a direct child of another | li>a {}
 Adjacent Sibling Selector       | Matches an element that is the next sibling of another | h1+p {}
 
-## Statments in JS
+## Statements in JS
 A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a **statement**.
  Statements should end with a semicolon 
 
