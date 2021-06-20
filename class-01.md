@@ -204,4 +204,42 @@ you might want to differentiate between links that point to other pages on your 
  *If you would like to indicate that an element belongs to several classes, you can separate class names with a space, as you can see in the third paragraph in the
 example above.*
 
+## meta
+The <meta> element lives inside the <head> element and contains information about that web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive. (If the page is time sensitive, it can be set to expire.)
+
+**Example:**
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+<title>Information About Your Pages</title>
+<meta name="description"
+content="An Essay on Installation Art" />
+<meta name="keywords"
+content="installation, art, opinion" />
+<meta name="robots"
+content="nofollow" />
+<meta http-equiv="author"
+content="Jon Duckett" />
+<meta http-equiv="pragma"
+content="no-cache" />
+<meta http-equiv="expires"
+content="Fri, 04 Apr 2014 23:59:59 GMT" />
+</head>
+<body>
+</body>
+</html>
+```
+
+## Layouts in HTML
+
+#### Traditional HTML Layouts
+![pic](pictures/pic8.png)
+
+#### New Html 5 Layout Elements
+![pic](pictures/pic9.png)
+
+** HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already. **
+
 
