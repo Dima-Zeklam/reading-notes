@@ -15,45 +15,31 @@
  
  * By enclosing words in the tags <i> and </i> we can make characters appear italic. The <i> element also represents a section of text that would be said in a different way from surrounding content — such as technical terms, names of ships, foreign words, thoughts, or other terms that would usually be italicized.
 
- ### Line Breaks & Horizontal Rules
 
-As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line  break inside the middle of a paragraph you can use the line break <br  /> tag.
+### Line Breaks & Horizontal Rules
 
- To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections
-using the <hr /> tag.
+As you have already seen, the browser will automatically show each new paragraph or heading on a new line. But if you wanted to add a line break inside the middle of a paragraph you can use the line break <br  /> tag.
+
+ To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule etween sections using the <hr /> tag.
 
 ## Visual editors
-Visual editors often resemble word processors. Although each editor will differ slightly, there are some features that are common to most editors
-that allow you to control the presentation of text. 
+Visual editors often resemble word processors. Although each editor will differ slightly, there are some features that are common to most editors that allow you to control the presentation of text. 
 
 ![def](editor.png)
 
 
-* Headings are created by
-highlighting text then using
-a drop-down box to select a
-heading. 
+* Headings are created by highlighting text then using a drop-down box to select a heading. 
 
-* Bold and italic text are
-created by highlighting some
-text and pressing a b or i
-button. 
+* Bold and italic text are created by highlighting some text and pressing a b or i button. 
 
-* New paragraphs are created
-using the return or the enter
-key.
+* New paragraphs are created using the return or the enter key.
 
-* Line breaks are created by
-pressing the shift key and the
-return key at the same time.
+* Line breaks are created by pressing the shift key and the return key at the same time.
 
-* Horizontal rules are created
-using a button with a straight
-line on it.
+* Horizontal rules are created using a button with a straight line on it.
 
 ## Semantic Markup
-*In the rest of the chapter you will meet some more elements that will help you when you are adding text to web pages. For example, you are going to meet the \<em \> element that allows you to indicate where emphasis
-should be placed on selected words and the \<blockquote\> element which  indicates that a block of text is a quotation.*
+*In the rest of the chapter you will meet some more elements that will help you when you are adding text to web pages. For example, you are going to meet the \<em \> element that allows you to indicate where emphasis should be placed on selected words and the \<blockquote\> element which  indicates that a block of text is a quotation.*
 
 ## Citations & Definitions
 
@@ -77,7 +63,7 @@ CSS works by associating rules with HTML elements. These rules govern
 how the content of specified elements should be displayed. A CSS rule
 contains two parts: a **selector** and a **declaration**.
 
-![def](selector.png)
+![selectors](selector.png)
 
 ## Using internal CSS
 
@@ -89,7 +75,7 @@ When building a site with more than one page, you should use an external CSS sty
 
 * Means you can change the styles used across all pages by altering just one file (rather than each individual page).
 
-![def](inline.png)
+![in](inline.png)
 
 
 Selector         | Meaning      | Example
@@ -137,3 +123,14 @@ ADDITION | +    |Adds one value to another |10 + 5 is 15
 SUBTRACTION | -   |Subtracts one value from another |10 - 5 is 5
 DIVISION | /   | I Divides two values |10 / 5 is  2
 MULTIPLICATION |*   |Multiplies two values |10 * 5 is 50
+
+
+## DECISIONS makining
+Using the results of evaluations, you can decide which path your script should go down.
+
+![des](des.png)
+
+## LOOPS
+There are also many occasions where you will want to perform the same set of steps repeatedly.
+
+![loop](loop.png)
