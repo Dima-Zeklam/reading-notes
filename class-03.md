@@ -36,11 +36,10 @@ Each item in the list is placed between an opening <li> tag and a closing </li> 
 ```
 
 * Definition lists are made up of a set of terms along with the definitions for each of those terms.
-The definition list is created with the <dl> element and usually consists of a series of terms and their definitions. Inside the <dl> element you will usually see pairs of <dt> and <dd> elements.
+The definition list is created with the *dl* element and usually consists of a series of terms and their definitions. Inside the *dl* element you will usually see pairs of *dt* and  *dd* elements.
 
 *dt* This is used to contain the term being defined (the definition term)
 *dd* This is used to contain the definition.
-
 
 
 ## Boxes
