@@ -22,7 +22,9 @@ minutes until tender</li>
 
 The unordered list is created with the <ul> element. 
 Each item in the list is placed between an opening <li> tag and a closing </li> tag. (The li stands for list item.)
+
 *Example*
+
 ```
 <ul>
 <li>1kg King Edward potatoes</li>
@@ -32,14 +34,12 @@ Each item in the list is placed between an opening <li> tag and a closing </li> 
 <li>Salt and pepper to taste</li>
 </ul>
 ```
+
 * Definition lists are made up of a set of terms along with the definitions for each of those terms.
 The definition list is created with the <dl> element and usually consists of a series of terms and their definitions. Inside the <dl> element you will usually see pairs of <dt> and <dd> elements.
 
-<dt> This is used to contain the term being defined (the definition term).
-
-<dd> This is used to contain the definition.
-
-*Example:*
+*dt* This is used to contain the term being defined (the definition term)
+*dd* This is used to contain the definition.
 
 
 ```
@@ -60,6 +60,7 @@ cow's milk (although it was traditionally made
 from buffalo milk)</dd>
 </dl>
 ```
+
 
 
 ## Boxes
