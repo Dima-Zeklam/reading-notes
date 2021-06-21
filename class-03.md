@@ -39,7 +39,8 @@ The definition list is created with the <dl> element and usually consists of a s
 
 <dd> This is used to contain the definition.
 
-*Example*
+*Example:*
+
 
 ```
 <dl>
@@ -60,11 +61,16 @@ from buffalo milk)</dd>
 </dl>
 ```
 
+
 ## Boxes
+
 ### Overflowing Content
+
 The overflow property tells the browser what to do if the content contained within a box is larger than the box itself. It can have one of two values:
 
+
 **hidden**
+
 This property simply hides any extra content that does not fit in the box.
 
 **scroll**
@@ -73,11 +79,15 @@ This property adds a scrollbar to the box so that users can scroll to see the mi
 
 The second example has the overflow property with a value of scroll.
 
+
 ![Boxes](Boxes.png)
+
 
 **border-width**
 
+
 ![Boxes](boxes2.png)
+
 
 
 ## EXPRESSIONS in JS
@@ -85,6 +95,7 @@ The second example has the overflow property with a value of scroll.
 An expression evaluates into (results in) a single value. Broadly peaking there are two types of expressions.
 
 1. EXPRESSIONS THAT JUST ASSIGN A VALUE TO A VARIABLE In order for a variable to be useful, it needs to be given a value. As you have seen, this is done using the assignment operator (the equals sign). 
+
 
 
 > var color = 'beige';
