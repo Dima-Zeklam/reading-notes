@@ -88,3 +88,20 @@ Functions let you group a series of statements together to perform a specific ta
 Declaring a Function: 
 
 ![linkong](fun.png)
+
+How to call the function ?
+
+*By the Function name*
+
+> SayHello();
+
+## ANONYMOUS FUNCTIONS& FUNCTION EXPRESSIONS
+Expressions produce a value. They can be used where values are expected.
+
+If a function is placed where a browser expects to see an expression, (e.g., as an argument to a function), then it gets treated as an expression.
+
+1. FUNCTION DECLARATION :
+A **function declaration** creates a function that you can ca ll later in your code.
+
+2. FUNCTION EXPRESSION :If you put a function where the interpreter would expect to see an expression, then it is treated as an expression, and it is known as a **function expression**. In function expressions, the name is usually omitted. A function with no name is called an **anonymous function**. Below, the function is stored in a variable called area.
+
