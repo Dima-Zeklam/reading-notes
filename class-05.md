@@ -107,5 +107,22 @@ monospace;}
 * PNG:  Use PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. 
 * GIF: Use GIF format for images that contain animations.
 
-Example on GIF
-![Gif](https://giphy.com/gifs/silicon-valley-l0K4jMNck0La1a7aU?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F)
+### Colours in:
+
+**JPEG** images can support around 16 million colours. This is what makes them suitable for storing images of natural scenes.
+
+![gpeg](https://jpeg.org/images/jpegls-home.jpg)
+
+
+**PNG** images mainly have two modes — PNG8 and PNG24. PNG8 can support upto 256 colours whereas PNG24 can handle upto 16 million colours like a JPEG image. 
+
+![png](https://i.dlpng.com/static/png/6783925_preview.png)
+
+**GIF** images are limited to 256 colours. If index transparency is used, then one of these 256 colours is assigned as transparent and the remaining 255 are used for other colours.
+
+![gif](https://www.thisiscolossal.com/wp-content/uploads/2014/03/120430.gif)
+
+### Animation
+* only GIF supports animation. This capability makes GIF format suitable for delivering engaging ads and banners.
+
+for more info [click here](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
