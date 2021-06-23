@@ -125,4 +125,4 @@ monospace;}
 ### Animation
 * only GIF supports animation. This capability makes GIF format suitable for delivering engaging ads and banners.
 
-for more info [click here](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+For more information [click here](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
