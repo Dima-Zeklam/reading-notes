@@ -26,3 +26,4 @@ HTML & css & JavaScript | [right click here](https://dima-zeklam.github.io/readi
 Basics of HTML, CSS & JS | [right click here](https://dima-zeklam.github.io/reading-notes/class-02)
 HTML Lists, Control Flow with JS, and the CSS Box Model  | [right click here](https://dima-zeklam.github.io/reading-notes/class-03)
 HTML Links, JS Functions, and Intro to CSS Layout  | [right click here](https://dima-zeklam.github.io/reading-notes/class-04)
+HTML Images CSS Color & Text  | [right click here](https://dima-zeklam.github.io/reading-notes/class-05)
