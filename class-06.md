@@ -24,6 +24,7 @@ Example :
 3. // return result
 
 * **Replace comments with real code**
+
 ```
 let number1 = 4, number2 = 6 , result = 0 ;
 result = number1 + number2;
@@ -32,9 +33,7 @@ console.log(result);
 ``` 
 
 * **Optimize the real code**
-Sometimes this step isn’t necessary, but it’s worth taking a look at your code and figuring out if you can cut out a few lines or do something simpler.
-
-This is also a good place to make sure all your variables are named with long meaningful names.  I cannot stress enough how important having good names for your variables and methods is for helping the person evaluating your code to understand what you were trying to do.  This is especially important when you make a mistake! , [click here](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming) to read more .
+Sometimes this step isn’t necessary, but it’s worth taking a look at your code and figuring out if you can cut out a few lines or do something simpler. this is also a good place to make sure all your variables are named with long meaningful names.  I cannot stress enough how important having good names for your variables and methods is for helping the person evaluating your code to understand what you were trying to do.  This is especially important when you make a mistake! , [click here](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming) to read more .
 
 
 ## Objects
