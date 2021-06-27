@@ -28,3 +28,4 @@ HTML Lists, Control Flow with JS, and the CSS Box Model  | [right click here](ht
 HTML Links, JS Functions, and Intro to CSS Layout  | [right click here](https://dima-zeklam.github.io/reading-notes/class-04)
 HTML Images CSS Color & Text  | [right click here](https://dima-zeklam.github.io/reading-notes/class-05)
 Problem Domain, Objects, and the DOM | [right click here](https://dima-zeklam.github.io/reading-notes/class-06)
+Object-Oriented Programming, HTML Tables| [right click here](https://dima-zeklam.github.io/reading-notes/class-07)
