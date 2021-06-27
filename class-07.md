@@ -37,7 +37,7 @@ console.log(corgiFail);
 5. Store the newly created object in a variable so you can access its properties and methods from outside.
 6. Use the this variable within methods so you can access the object's properties and methods from inside.
 
-## ## Tables in Html 
+## Tables in Html 
 * What is the table ?
 A table represents information in a grid format. Examples of tables include financial reports, TV schedules, and sports results.
 
