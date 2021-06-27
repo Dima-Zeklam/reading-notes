@@ -38,10 +38,11 @@ console.log(corgiFail);
 6. Use the this variable within methods so you can access the object's properties and methods from inside.
 
 ## Tables in Html 
+
 * What is the table ?
 A table represents information in a grid format. Examples of tables include financial reports, TV schedules, and sports results.
 
-* Basic Table St ructure
+* Basic Table Structure
 
 ```
 <table>
@@ -89,7 +90,7 @@ Here are some properties of the document object, which tell you about the curren
 PROPERTY |DESCRIPTION
 ---------|-----------
 document.title | Title of current document
-document. l astModified |Date on which document was last modified
+document.lastModified |Date on which document was last modified
 document .URL |Returns string containing URL of current document
 document.domain | Returns domain of current document
 
