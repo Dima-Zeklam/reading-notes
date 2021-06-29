@@ -1,4 +1,4 @@
-#CSS Layout
+# CSS Layout
 
 ![layout](https://cdn.codecoda.com/themes/user/site/default/asset/img/blog/CSS-layout-1.png)
 
@@ -71,7 +71,7 @@ While a grid might seem like a restriction, in actual fact it:
 
 ![Gride 960 pixel](grid1.png)
 
-![Gride 960 pixel](grid2.png)
+![Gride 960 pixel](gride2.png)
 
 ## CSS Frameworks
 
@@ -92,4 +92,4 @@ There are two ways to add multiple style sheets to a page:
 
 ![sheet](sheet.png)
 
-### For more Example [CLICK HERE](https://www.w3schools.com/css/css_website_layout.asp).
+### For more Examples [CLICK HERE](https://www.w3schools.com/css/css_website_layout.asp).
