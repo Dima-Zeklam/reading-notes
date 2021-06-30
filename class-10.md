@@ -111,11 +111,11 @@ throw, and finally statements.
 
 ```
 try {
-II Try to execute this code
+// Try to execute this code
 catch (exception) {
-II If there is an exception, run this code
+// If there is an exception, run this code
 finally {
-II This always gets executed
+// This always gets executed
 TRY
 ```
 * **TRY**
@@ -129,7 +129,7 @@ corresponding catch block.
 The try clause must be used in
 this type of error handling code,
 and it should always have either
-a catch, fi na 1 ly, or both.
+a catch, finally, or both.
 
 * **CATCH**
 If the try code block throws an
@@ -160,6 +160,6 @@ after the previous two clauses.
 * MISSED/ EXTRA CHARACTERS
 * DATA TYPE ISSUES
 
-*Read more about Errors:* [Here](https://www.w3schools.com/js/js_mistakes.asp)
+*Read more about JavaScript Common Mistakes:* [Here](https://www.w3schools.com/js/js_mistakes.asp)
 
 
