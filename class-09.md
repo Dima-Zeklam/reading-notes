@@ -7,7 +7,7 @@
 There are several types of form controls that you can use to collect information from visitors to your site.
 1. ADDING TEXT: Like a single line text box but it masks the characters entered.
 2. Making Choice s:
-3. Submitting Forms: Uploadi ng Files:
+3. Submitting Forms: Uploading Files:
 4. Password input
 5. File upload
 
@@ -27,7 +27,7 @@ method="get">
 </form>
 ```
 * Text input
-The <input> element is used to create several different form controls. The value of the type attribute determines what kind of input they will be creating.
+The \<input> element is used to create several different form controls. The value of the type attribute determines what kind of input they will be creating.
 type="text" When the type attribute has a value of text, it creates a singleline text input.
 When users enter information into a form, the server needs to know which form control each piece of data was entered into.
 (For example, in a login form, the server needs to know what has been entered as the username and what has been given as the password.) Therefore, each form control requires a name attribute.
@@ -228,7 +228,7 @@ select    |User selects some text in a form field
 ![eventjs](jsevent.png)
 1. SELECT ELEMENT
 The element that users are interacting with is the text input where they enter the username.
-2. SPEClFY EVENT
+2. Specify EVENT
 When users move out of the text input, it loses focus, and the blur event fires on this element.
 3. CALL CODE
 When the blur event fires on the username input, it will trigger a function called chec kUsername ().This function checks if the username is less than 5 characters.
