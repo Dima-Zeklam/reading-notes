@@ -29,6 +29,7 @@ fileNumber |Name of the JavaScript file
 lineNumber | Line number of error
 
 * There are seven types of built-in error objects in JavaScript:
+
 OBJECT  |DESCRIPTION
 --------|---------
 Error |Generic error - the other errors are all based upon this error
@@ -71,7 +72,7 @@ VARIABLE IS UNDECLARED
 
 ```
 var wi dth = 12 ;
-var area = width * llt!ftNU! ;
+var area = width * Height ;
 ReferenceError: Can't find variable:
 height
 ```
@@ -92,7 +93,7 @@ debug the code, track down the source of the error,
 and fix it.
 2. HANDLE ERRORS GRACEFULLY
 You can handle errors gracefully using try, catch,
-throw, and f i na 1 ly statements.
+throw, and finally statements.
 
 
 
@@ -119,7 +120,7 @@ TRY
 ```
 * **TRY**
 First, you specify the code
-that you t hink might throw an
+that you think might throw an
 exception within the try block.
 If an exception occurs in this
 section of code, control is
