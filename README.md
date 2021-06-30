@@ -31,3 +31,4 @@ Problem Domain, Objects, and the DOM | [right click here](https://dima-zeklam.gi
 Object-Oriented Programming, HTML Tables| [right click here](https://dima-zeklam.github.io/reading-notes/class-07)
 CSS Layout| [right click here](https://dima-zeklam.github.io/reading-notes/class-08)
 Forms and JS Events| [right click here](https://dima-zeklam.github.io/reading-notes/class-09)
+Error Handling & Debugging| [right click here](https://dima-zeklam.github.io/reading-notes/class-10)
