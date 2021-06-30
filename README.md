@@ -30,3 +30,4 @@ HTML Images CSS Color & Text  | [right click here](https://dima-zeklam.github.io
 Problem Domain, Objects, and the DOM | [right click here](https://dima-zeklam.github.io/reading-notes/class-06)
 Object-Oriented Programming, HTML Tables| [right click here](https://dima-zeklam.github.io/reading-notes/class-07)
 CSS Layout| [right click here](https://dima-zeklam.github.io/reading-notes/class-08)
+Forms and JS Events| [right click here](https://dima-zeklam.github.io/reading-notes/class-09)

@@ -11,7 +11,9 @@ There are several types of form controls that you can use to collect information
 4. Password input
 5. File upload
 
-*Example on form *
+
+*Example on form*
+
 ![html form](https://www.htmlgoodies.com/wp-content/uploads/2021/04/HTML-Form.png)
 
 ### Form Structure
@@ -31,7 +33,7 @@ When users enter information into a form, the server needs to know which form co
 (For example, in a login form, the server needs to know what has been entered as the username and what has been given as the password.) Therefore, each form control requires a name attribute.
 The value of this attribute identifies the form control and is sent along with the information they enter to the server.
 
-> <input type="text" name="username" size="15" maxlength="30" />
+>\<input type="text" name="username" size="15" maxlength="30" />
 
 * Radio Button
 type="radio"
@@ -81,7 +83,7 @@ that this box should be checked
 when the page loads. If used, its
 value should be checked.
 
-><input type="checkbox" name="service" value="lastfm" /> 
+>\<input type="checkbox" name="service" value="lastfm" /> 
 
 
 
