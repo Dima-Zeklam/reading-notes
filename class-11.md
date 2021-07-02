@@ -6,7 +6,7 @@
 >img.medium { width: 250px; height: 250px;}
 >img.small { width: 100px; height: 100px;}
 
-*Aligning images
+* Aligning images
 
 >img.align-left { float: left; margin-right: 10px;}
 >img.align-right { float: right; margin-left: 10px;}
@@ -116,6 +116,8 @@ rating in search engines
 5. Link Text
 6. Image Alt Text
 7. Page Descriptions
+
+
 
 2. **Off-Page Techniques**
 
