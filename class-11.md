@@ -100,7 +100,7 @@ improve your website's visibility on search engines.
 
 ### SEO is often split into two areas:
 
-1. **On-Page Techniques**
+* **On-Page Techniques**
 
 On-page techniques are the
 methods you can use on your
@@ -119,7 +119,7 @@ rating in search engines
 
 
 
-2. **Off-Page Techniques**
+* **Off-Page Techniques**
 
 Getting other sites to link to you
 is just as important as on-page
