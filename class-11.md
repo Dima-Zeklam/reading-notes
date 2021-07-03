@@ -152,13 +152,41 @@ server or vice versa.
 ![ftp](ftp.png)
 
 ## HTML5 video and audio
-Code Example on video :
+
+* video
+The \<video> HTML element embeds a media player which supports video playback into the document.
+
+*Example om hoe to Embed video in html:*
 
 ```
-<video controls>
-  <source src="rabbit320.mp4" type="video/mp4">
-  <source src="rabbit320.webm" type="video/webm">
-  <p>Your browser doesn't support HTML5 video. Here is a <a href="rabbit320.mp4">link to the video</a> instead.</p>
+<video controls width="250">
+
+    <source src="/media/cc0-videos/flower.webm"
+            type="video/webm">
+
+    <source src="/media/cc0-videos/flower.mp4"
+            type="video/mp4">
+
+    Sorry, your browser doesn't support embedded videos.
 </video>
 ```
+
+* Audio 
+
+The \<audio> HTML element is used to embed sound content in documents.
+
+*Example om hoe to Embed audio in html:*
+
+
+```
+   <audio>
+        controls
+        src="/media/cc0-audio/t-rex-roar.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+
+```
+
+read more about [Video](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video) and [Audio](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
 
