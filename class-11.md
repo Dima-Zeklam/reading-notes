@@ -156,7 +156,7 @@ server or vice versa.
 * video
 The \<video> HTML element embeds a media player which supports video playback into the document.
 
-*Example om hoe to Embed video in html:*
+*Example on how to Embed video in html:*
 
 ```
 <video controls width="250">
@@ -175,7 +175,7 @@ The \<video> HTML element embeds a media player which supports video playback in
 
 The \<audio> HTML element is used to embed sound content in documents.
 
-*Example om hoe to Embed audio in html:*
+*Example on how to Embed audio in html:*
 
 
 ```
