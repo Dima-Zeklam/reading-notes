@@ -1,4 +1,4 @@
-# 
+#  Chart.js, Canvas
 
 ## Chart.js
 Chart.js is a free open-source JavaScript library for [data visualization](https://en.wikipedia.org/wiki/Data_visualization) , which supports 8 chart types: bar, line, area, pie (doughnut), bubble, radar, polar, and scatter.

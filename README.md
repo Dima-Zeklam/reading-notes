@@ -33,3 +33,4 @@ CSS Layout| [right click here](https://dima-zeklam.github.io/reading-notes/class
 Forms and JS Events| [right click here](https://dima-zeklam.github.io/reading-notes/class-09)
 Error Handling & Debugging| [right click here](https://dima-zeklam.github.io/reading-notes/class-10)
 Audio, Video, Images  | [right click here](https://dima-zeklam.github.io/reading-notes/class-11)
+ Chart.js, Canvas  | [right click here](https://dima-zeklam.github.io/reading-notes/class-12)
