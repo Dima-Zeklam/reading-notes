@@ -10,13 +10,13 @@ Chart.js is a free open-source JavaScript library for [data visualization](https
 2. [bar](https://www.chartjs.org/docs/latest/charts/bar.html)
 3. [area](https://www.chartjs.org/docs/latest/charts/area.html)
 4. [pie](https://www.chartjs.org/docs/latest/charts/doughnut.html)
-5. [bubble]https://www.chartjs.org/docs/latest/charts/bubble.html()
+5. [bubble](https://www.chartjs.org/docs/latest/charts/bubble.html)
 6. [radar](https://www.chartjs.org/docs/latest/charts/radar.html)
 7. [polar](https://www.chartjs.org/docs/latest/charts/polar.html)
 8. [scatter](https://www.chartjs.org/docs/latest/charts/scatter.html)
 
 ### Creating a Chart
-*create a bar chart for a single dataset and render *
+*create a bar chart for a single dataset and render*
 
 ```
 <canvas id="myChart" width="400" height="400"></canvas>
@@ -60,6 +60,8 @@ var myChart = new Chart(ctx, {
 ```
 
 ### General of proprities in Bar chart
+
+
 Name  |	Description
 ------|-------------
 base  |	Base value for the bar in data units along the value axis. If not set, defaults to the value axis base value.
@@ -74,7 +76,9 @@ xAxisID |	The ID of the x-axis to plot this dataset on.
 yAxisID |	The ID of the y-axis to plot this dataset on
 
 ### Styling
+
 The style of each bar can be controlled with the following properties:
+
 Name |	Description
 -----|----------
 backgroundColor | 	The bar background color.
@@ -139,6 +143,7 @@ there are two important properties we can use: **fillStyle** and **strokeStyle**
 * A fillStyle example
 n this example, we once again use two for loops to draw a grid of rectangles, each in a different color. The resulting image should look something like the screenshot. There is nothing too spectacular happening here. We use the two variables i and j to generate a unique RGB color for each square, and only modify the red and green values. The blue channel has a fixed value. By modifying the channels, you can generate all kinds of palettes.
 
+
 ![fillstyle](fillstyle.png)
 
 
@@ -159,6 +164,7 @@ This example is similar to the one above, but uses the strokeStyle property to c
     }
   }
 ```
+
 ![strokeStyle](stroke.png)
 
 ### Shadows
@@ -192,6 +198,7 @@ Strokes a given text at the given (x,y) position. Optionally with a maximum widt
 
 **A strokeText example**
 The text is filled using the current strokeStyle.
+
 ![storetext](storetext.png)
 
 ### Related Topics 
