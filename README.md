@@ -34,3 +34,4 @@ Forms and JS Events| [right click here](https://dima-zeklam.github.io/reading-no
 Error Handling & Debugging| [right click here](https://dima-zeklam.github.io/reading-notes/class-10)
 Audio, Video, Images  | [right click here](https://dima-zeklam.github.io/reading-notes/class-11)
  Chart.js, Canvas  | [right click here](https://dima-zeklam.github.io/reading-notes/class-12)
+ THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS | [right click here](https://dima-zeklam.github.io/reading-notes/class-13)
