@@ -63,10 +63,10 @@ HTML5 Storage is based on named **key/value** pairs. You store data based on a n
 
 PROPERTY |	TYPE	|DESCRIPTION
 --------|----------|-----------
-key	string |	the named key that was added, removed, or modified
-oldValue|  any	the previous value (now overwritten), or null if a new item was added
-newValue |	any	the new value, or null if an item was removed
-url*	| string	the page which called a method that triggered this change
+key	 |string |	the named key that was added, removed, or modified
+old  |Value|  any	the previous value (now overwritten), or null if a new item was added
+new  |Value |	any	the new value, or null if an item was removed
+url*	| string	| the page which called a method that triggered this change
 
 
 * Note: the url property was originally called uri. Some browsers shipped with that
@@ -100,4 +100,4 @@ IE	|FIREFOX |	SAFARI |	CHROME |	OPERA|	IPHONE |	ANDROID
 
 The Indexed Database API exposes what’s called an object store. An object store shares many concepts with a SQL database. There are “databases” with “records,” and each record has a set number of “fields.” Each field has a specific datatype, which is defined when the database is created. You can select a subset of records, then enumerate them with a “cursor.” Changes to the object store are handled within “transactions.”
 
-Read more about [HTML5 Storage ](https://html.spec.whatwg.org/multipage/webstorage.html) specification , [Web SQL Database ](https://dev.w3.org/html5/webdatabase/) ,[The Indexed Database API](https://w3c.github.io/IndexedDB/) ,
+Read more about [HTML5 Storage ](https://html.spec.whatwg.org/multipage/webstorage.html) specification , [Web SQL Database ](https://dev.w3.org/html5/webdatabase/) ,[The Indexed Database API](https://w3c.github.io/IndexedDB/) .
