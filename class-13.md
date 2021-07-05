@@ -17,17 +17,22 @@
 
 ### HTML5 Storage 
 
-[HTML5 Storage ](https://srimax.com/wp-content/uploads/2014/04/html5-local-storage-300x171.jpg)
+![HTML5 Storage ](https://srimax.com/wp-content/uploads/2014/04/html5-local-storage-300x171.jpg)
+
 
 is a specification named Web Storage, which was at one time part of the HTML5 specification proper, but was split out into its own specification for uninteresting political reasons.
 
+
 ### HTML5 STORAGE SUPPORT
+
 IE	|FIREFOX |	SAFARI |	CHROME |	OPERA|	IPHONE |	ANDROID
----|--------|----------|----------|---------|----------|------------
-8.0+ |	3.5+ |	4.0+ |	4.0+ |	10.5+ |	2.0+	 |2.0+
+-----|--------|----------|----------|---------|----------|------------
+8.0+ |	3.5+ |	4.0+ |	4.0+  |	10.5+    | 	2.0+	 |2.0+
+
 
 
 *check for HTML5 Storage*
+
 
 ```
 function supports_html5_storage() {
@@ -67,10 +72,11 @@ url*	| string	the page which called a method that triggered this change
 * Note: the url property was originally called uri. Some browsers shipped with that
  property before the specification changed. For maximum compatibility, you should check whether the url property exists, and if not, check for the uri property instead.
 
- ## HTML5 STORAGE IN ACTION
+
+## HTML5 STORAGE IN ACTION
  The most important part of this function is Data, Data is stored as strings. If you are storing something other than a string, you’ll need to coerce it yourself when you retrieve it. For example, the flag for whether there is a game in progress (gGameInProgress) is a Boolean. In the saveGameState() function, we just stored it and didn’t worry about the datatype:
 
- ## BEYOND NAMED KEY-VALUE PAIRS: COMPETING VISIONS
+## BEYOND NAMED KEY-VALUE PAIRS: COMPETING VISIONS
 A new API has been standardized and implemented across all major browsers, platforms, and devices. As a web developer, that’s just not something you see every day, is it? But there is more to life than “5 megabytes of named key/value pairs,” and the future of persistent local storage is… how shall I put it… well, there are competing visions.
 
  *actual working code in 4 browsers*
@@ -87,8 +93,8 @@ A new API has been standardized and implemented across all major browsers, platf
 ### WEB SQL DATABASE SUPPORT
 
 IE	|FIREFOX |	SAFARI |	CHROME |	OPERA|	IPHONE |	ANDROID
----|--------|----------|----------|---------|----------|------------
--   |	-   | 	4.0+	| 4.0+   | 	10.5+	 |3.0+  |	2.0+
+-----|--------|----------|----------|---------|----------|------------
+ \-  |	-   | 	4.0+	| 4.0+   | 	10.5+	 |3.0+  |	2.0+
 
 ## the Indexed Database API, formerly known as “WebSimpleDB,” now affectionately known as “IndexedDB.”
 
