@@ -69,19 +69,24 @@ The matrix() method take six parameters, containing mathematic functions, which 
 * rotateX()
 The rotateX() method rotates an element around its X-axis at a given degree
 
-` transform: rotateX(150deg)`
+> transform: rotateX(150deg)
+
+
 ![rotatex](rotatex.png)
 
 * rotateY() 
 
 The rotateY() method rotates an element around its Y-axis at a given degree
-` transform: rotateY(150deg)`
+> transform: rotateY(150deg)
+
 ![rotatey](rotatey.png)
+
 * rotateZ()
 
 The rotateZ() method rotates an element around its Z-axis at a given degree
 
-` transform: rotateZ(90deg)`
+> transform: rotateZ(90deg)
+
 ![rotatez](rotatez.png)
 
 
@@ -92,6 +97,7 @@ As mentioned, for a transition to take place, an element must have a change in s
 
 
 **CSS Transition Properties**
+
 Property  |	Description
 ----------|-------------
 transition |	A shorthand property for setting the four transition properties into a single property
@@ -100,8 +106,11 @@ transition-duration |	Specifies how many seconds or milliseconds a transition ef
 transition-property	| Specifies the name of the CSS property the transition effect is for
 transition-timing-function |	Specifies the speed curve of the transition effect
 
+
 ### CSS3 TRANSITIONS some properity can do 
+
 1. Fade in
+
 Fade in effects are coded in two steps: first, you set the initial state; next, you set the change, for example on hover:
 
 ```
@@ -114,11 +123,15 @@ Fade in effects are coded in two steps: first, you set the initial state; next, 
         opacity:1;
 }
 ```
+
 2. Change color
+
 
 > .color:hover { background:#53a7ea; }
 
+
 3. Grow & Shrink
+
 
 To grow an element, you used to have to use its width and height, or its padding. But now we can use CSS3’s transform to enlarge
 
@@ -130,6 +143,7 @@ To grow an element, you used to have to use its width and height, or its padding
         transform: scale(1.3);
 }
 ```
+
 ### see more [CSS3 Transition Example](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
 
 ## Animations
