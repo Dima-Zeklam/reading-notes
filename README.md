@@ -33,5 +33,6 @@ CSS Layout| [right click here](https://dima-zeklam.github.io/reading-notes/class
 Forms and JS Events| [right click here](https://dima-zeklam.github.io/reading-notes/class-09)
 Error Handling & Debugging| [right click here](https://dima-zeklam.github.io/reading-notes/class-10)
 Audio, Video, Images  | [right click here](https://dima-zeklam.github.io/reading-notes/class-11)
- Chart.js, Canvas  | [right click here](https://dima-zeklam.github.io/reading-notes/class-12)
- THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS | [right click here](https://dima-zeklam.github.io/reading-notes/class-13)
+Chart.js, Canvas  | [right click here](https://dima-zeklam.github.io/reading-notes/class-12)
+THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS | [right click here](https://dima-zeklam.github.io/reading-notes/class-13)
+CSS Transforms, Transitions, and Animations | [right click here](https://dima-zeklam.github.io/reading-notes/class-14a)
