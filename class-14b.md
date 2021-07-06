@@ -1,0 +1,2 @@
+# What Google Learned About Teams
+Team members at Google are challenged in much the same way as nearly everyone else in corporate life. To get things done, they need to come together fast and tackle complex tasks that have no easy solutions.
