@@ -109,7 +109,7 @@ transition-timing-function |	Specifies the speed curve of the transition effect
 
 ### CSS3 TRANSITIONS some properity can do 
 
-1. Fade in
+* Fade in
 
 Fade in effects are coded in two steps: first, you set the initial state; next, you set the change, for example on hover:
 
@@ -124,13 +124,12 @@ Fade in effects are coded in two steps: first, you set the initial state; next, 
 }
 ```
 
-2. Change color
-
+* Change color
 
 > .color:hover { background:#53a7ea; }
 
 
-3. Grow & Shrink
+* Grow & Shrink
 
 
 To grow an element, you used to have to use its width and height, or its padding. But now we can use CSS3’s transform to enlarge
