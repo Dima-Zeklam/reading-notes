@@ -36,3 +36,4 @@ Audio, Video, Images  | [right click here](https://dima-zeklam.github.io/reading
 Chart.js, Canvas  | [right click here](https://dima-zeklam.github.io/reading-notes/class-12)
 THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS | [right click here](https://dima-zeklam.github.io/reading-notes/class-13)
 CSS Transforms, Transitions, and Animations | [right click here](https://dima-zeklam.github.io/reading-notes/class-14a)
+ What Google Learned About Teams  | [right click here](https://dima-zeklam.github.io/reading-notes/class-14b)
