@@ -107,7 +107,7 @@ transition-property	| Specifies the name of the CSS property the transition effe
 transition-timing-function |	Specifies the speed curve of the transition effect
 
 
-### CSS3 TRANSITIONS some properity can do 
+### CSS3 TRANSITIONS some  property can do 
 
 * Fade in
 
