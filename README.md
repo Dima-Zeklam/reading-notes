@@ -1,6 +1,6 @@
 # My intro
 ### **My name is *Dima Zeklam*, from Amman, Jordan.  I have a bachelor's degree in computer science from the University of Jordan.**
-### I like programming  and I'm here to achieve my goal which is to be a full-stack web developer.
+### I like programming  and I'm here to achieve my goal which is to be a Full-Stack Web Developer.
 ### My computer operating system is "Windows 10".
 
 #  102 - Intro to Software Development
