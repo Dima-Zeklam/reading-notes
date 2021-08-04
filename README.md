@@ -41,12 +41,9 @@ CSS Transforms, Transitions, and Animations | [right click here](https://dima-ze
 # 301 - Intermediate Software Development
 * Table of content
 
-Name   |  Link
------- | ------
+
 
 
 # 401 - Advanced Software Development
-* Table of content
 
-Name   |  Link
------- | ------
+
