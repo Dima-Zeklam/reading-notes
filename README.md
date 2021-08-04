@@ -1,9 +1,9 @@
 # My intro
-### **My name is *Dima Zeklam*, i'am 23 years old, I graduated with a bachelor's degree in computer science from University of Jordan.**
-### I joined this course because I want to learn more stuff and imbrove my skills.
+### **My name is *Dima Zeklam*,from Amman, Jordan.  I have a bachelor's degree in computer science from the University of Jordan. **
+### I like programming  and I'm here to achieve my goal which is to be a full-stack web developer.
 ### My computer operating system is "Windows 10".
 
-#  102 reading notes
+#  102 - Intro to Software Development
 * Table of content
 
 Name    |  Link
@@ -17,7 +17,7 @@ JavaScript (JS) | [right click here](https://dima-zeklam.github.io/reading-notes
 JavaScript Expressions and operators | [right click here](https://dima-zeklam.github.io/reading-notes/read07)
 JavaScript Loops and iteration | [right click here](https://dima-zeklam.github.io/reading-notes/read08)
 
-# 201 reading notes
+# 201 - Foundations of Software Development
 * Table of content
 
 Name    |  Link
@@ -37,3 +37,16 @@ Chart.js, Canvas  | [right click here](https://dima-zeklam.github.io/reading-not
 THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS | [right click here](https://dima-zeklam.github.io/reading-notes/class-13)
 CSS Transforms, Transitions, and Animations | [right click here](https://dima-zeklam.github.io/reading-notes/class-14a)
  What Google Learned About Teams  | [right click here](https://dima-zeklam.github.io/reading-notes/class-14b)
+
+# 301 - Intermediate Software Development
+* Table of content
+
+Name   |  Link
+------ | ------
+
+
+# 401 - Advanced Software Development
+* Table of content
+
+Name   |  Link
+------ | ------
