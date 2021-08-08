@@ -44,6 +44,7 @@ CSS Transforms, Transitions, and Animations | [right click here](https://dima-ze
 Name    |  Link
 ------ | ------
 Introduction to React and Components |  [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class%2001)
+State and Props|[right click here](https://dima-zeklam.github.io/reading-notes/Read:Class02)
 
 
 # 401 - Advanced Software Development
