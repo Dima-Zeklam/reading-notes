@@ -25,12 +25,12 @@ Because Ternary operators can make statements more concise and easy to reason ab
  console.log(false);
   }
 ```
-##### by using ternary operater:
+##### by using ternary operator:
 
 ```
 x === y ?  console.log(true) :  console.log(false);
 ```
 
 ## Things I want to know more about
-* Paython 
+* Python 
 * Forms
