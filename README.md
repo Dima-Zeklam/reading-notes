@@ -46,6 +46,8 @@ Name    |  Link
 Introduction to React and Components |  [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class%2001)
 State and Props|[right click here](https://dima-zeklam.github.io/reading-notes/Read:Class02)
 Passing Functions as Props | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class03)
+React and Forms  | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class04)
+React and Forms
 
 
 # 401 - Advanced Software Development

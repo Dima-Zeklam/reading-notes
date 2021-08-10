@@ -11,7 +11,9 @@ We have to update the state with their responses as soon as they enter them, bec
 Using event.target.value, the updated value can be fetched and further processed for submitting the form values to the server.
 
 ### The Conditional (Ternary) Operator Explained
+
 ![ternary operators](https://flutter-examples.com/wp-content/uploads/2020/03/ternary_operator.png)
+
 #### 1. Why would we use a ternary operator?
 Because Ternary operators can make statements more concise and easy to reason about.
 #### 2. Rewrite the following statement using a ternary statement:
@@ -30,3 +32,5 @@ x === y ?  console.log(true) :  console.log(false);
 ```
 
 ## Things I want to know more about
+* Paython 
+* Forms
