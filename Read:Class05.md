@@ -9,7 +9,9 @@
 3. Identify The Minimal (but complete) Representation Of UI State
 4. Identify Where Your State Should Live
 5. Add Inverse Data Flow
+
 ### 2. What is the single responsibility principle and how does it apply to components?
+
 The `single-responsibility principle` (SRP) is a computer-programming principle that states that every module, class or function in a computer program should have responsibility over a single part of that program's functionality, and it should encapsulate that part.
 
 ### 3. What does it mean to build a ‘static’ version of your application?
