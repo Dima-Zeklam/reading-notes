@@ -49,7 +49,7 @@ Passing Functions as Props | [right click here](https://dima-zeklam.github.io/re
 React and Forms  | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class04)
 Thinking in React | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class05)
 NODE.JS and Pair Programming | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class06)
-REST | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class07)
+REST | [right click here](https://dima-zeklam.github.io/reading-notes/Read:07)
 
 # 401 - Advanced Software Development
 
