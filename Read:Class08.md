@@ -1,7 +1,9 @@
 # APIs 
 
 ### 1. What does REST stand for?
+
 ![REST](https://miro.medium.com/max/616/1*PNuFFadttQrMTAdFDX8XSg.png)
+
 **REST** stand for *Representational State Transfer*  is an architectural style for building distributed systems based on hypermedia. REST is independent of any underlying protocol and is not necessarily tied to HTTP. However, most common REST API implementations use HTTP as the application protocol, and this guide focuses on designing REST APIs for HTTP.
 
 ### 2. REST APIs are designed around a *resources*
@@ -30,3 +32,7 @@ If the resource cannot be found, the method should return 404 (Not Found).
 * If the method does some processing but does not create a new resource, the method can return HTTP status code 200 and include the result of the operation in the response body.
 ### 11. What status code does a successful DELETE request return?
 If the delete operation is successful, the web server should respond with HTTP status code 204 (No Content)
+
+
+## Things I want to know more about
+* RegExr 
