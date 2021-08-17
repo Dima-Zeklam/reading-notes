@@ -50,7 +50,7 @@ React and Forms  | [right click here](https://dima-zeklam.github.io/reading-note
 Thinking in React | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class05)
 NODE.JS and Pair Programming | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class06)
 REST | [right click here](https://dima-zeklam.github.io/reading-notes/Read:07)
-API | [right click here](https://dima-zeklam.github.io/reading-notes/Read:08)
+API | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class08)
 
 # 401 - Advanced Software Development
 
