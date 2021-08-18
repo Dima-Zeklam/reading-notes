@@ -52,7 +52,7 @@ NODE.JS and Pair Programming | [right click here](https://dima-zeklam.github.io/
 REST | [right click here](https://dima-zeklam.github.io/reading-notes/Read:07)
 API | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class08)
 FUNCTIONAL PROGRAMMING |[right click here](https://dima-zeklam.github.io/reading-notes/Read:Class09)
-
+JavaScript Call Stack and JavaScript Call Stack | [right click here](https://dima-zeklam.github.io/reading-notes/read10)
 
 # 401 - Advanced Software Development
 

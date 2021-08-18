@@ -25,7 +25,7 @@ let x = average(10, 20);
 ### 5.What causes a Stack Overflow?
 The most-common cause of stack overflow is excessively deep or infinite recursion, in which a function calls itself so many times that the space needed to store the variables and information associated with each call is more than can fit on the stack.
 
-## JavaScript error messages
+## JavaScript Call Stack
 
 ### 1. What is a ‘refrence error’?
 This is as simple as when you try to use a variable that is not yet declared you get this type os errors.
