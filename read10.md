@@ -2,7 +2,7 @@
 
 ## Understanding the JavaScript Call Stack
 ### 1. What is a ‘call’?
-function invocation
+Call is to invoke a routine in a programming language. Calling a routine consists of specifying the routine name and, optionally, parameters.
 ### 2. How many ‘calls’ can happen at once?
 Since the call stack is single, function(s) execution, is done, one at a time, from top to bottom. It means the call stack is synchronous.
 ### 3. What does LIFO mean?
