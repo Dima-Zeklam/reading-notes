@@ -2,7 +2,7 @@
 
 ### What is functional programming?
 
-[functional programming](https://i.ytimg.com/vi/PyKZMY-_TI8/maxresdefault.jpg)
+![functional programming](https://i.ytimg.com/vi/PyKZMY-_TI8/maxresdefault.jpg)
 
 Is the process of building software by composing pure functions, **avoiding shared state**, **mutable data**, and **side-effects**. Functional programming is **declarative** rather than imperative, and application state flows through pure functions.
 
@@ -27,7 +27,7 @@ Referential transparency it can be replaced with its corresponding value (and vi
 ## module in NodeJS
 ### What is a module?
 
-[module](https://parallelcodes.com/wp-content/uploads/2020/11/node-js-custom-module-example.png)
+![module](https://parallelcodes.com/wp-content/uploads/2020/11/node-js-custom-module-example.png)
 
 Module in Node.js is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node.js application.
 
