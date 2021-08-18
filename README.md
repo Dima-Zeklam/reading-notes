@@ -51,7 +51,7 @@ Thinking in React | [right click here](https://dima-zeklam.github.io/reading-not
 NODE.JS and Pair Programming | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class06)
 REST | [right click here](https://dima-zeklam.github.io/reading-notes/Read:07)
 API | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class08)
-FUNCTIONAL PROGRAMMING |[right click here](https://dima-zeklam.github.io/reading-notes/read:09)
+FUNCTIONAL PROGRAMMING |[right click here](https://dima-zeklam.github.io/reading-notes/Read:Class09)
 
 
 # 401 - Advanced Software Development
