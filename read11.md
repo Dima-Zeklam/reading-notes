@@ -1,4 +1,4 @@
-# Authentication
+# authorization and authentication
 
 ![User Authentication](https://www.cisco.com/c/dam/assets/swa/img/anchor-info/what-is-user-authentication-628x353.png)
 
@@ -27,6 +27,7 @@ OAuth is an open-standard authorization protocol or framework that describes how
 ![OpenID](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenIDvs.Pseudo-AuthenticationusingOAuth.svg/512px-OpenIDvs.Pseudo-AuthenticationusingOAuth.svg.png)
 
 is an open standard and decentralized authentication protocol. Promoted by the non-profit OpenID Foundation, it allows users to be authenticated by cooperating sites (known as relying parties, or RP) using a third-party service, eliminating the need for webmasters to provide their own ad hoc login systems, and allowing users to log into multiple unrelated websites without having to have a separate identity and password for each
+
 
 ### What is the difference between authorization and authentication?
 ![authorization vs authentication](https://aboutssl.org/wp-content/uploads/2020/06/authentication-vs-authorization.svg)

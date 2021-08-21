@@ -37,6 +37,7 @@ Chart.js, Canvas  | [right click here](https://dima-zeklam.github.io/reading-not
 THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS | [right click here](https://dima-zeklam.github.io/reading-notes/class-13)
 CSS Transforms, Transitions, and Animations | [right click here](https://dima-zeklam.github.io/reading-notes/class-14a)
  What Google Learned About Teams  | [right click here](https://dima-zeklam.github.io/reading-notes/class-14b)
+ 
 
 # 301 - Intermediate Software Development
 * Table of content
@@ -53,6 +54,7 @@ REST | [right click here](https://dima-zeklam.github.io/reading-notes/Read:07)
 API | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class08)
 FUNCTIONAL PROGRAMMING |[right click here](https://dima-zeklam.github.io/reading-notes/Read:Class09)
 JavaScript Call Stack and JavaScript Call Stack | [right click here](https://dima-zeklam.github.io/reading-notes/read10)
+authorization and authentication | [right click here](https://dima-zeklam.github.io/reading-notes/read11)
 
 # 401 - Advanced Software Development
 
