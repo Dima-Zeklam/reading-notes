@@ -54,7 +54,7 @@ REST | [right click here](https://dima-zeklam.github.io/reading-notes/Read:07)
 API | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class08)
 FUNCTIONAL PROGRAMMING |[right click here](https://dima-zeklam.github.io/reading-notes/Read:Class09)
 JavaScript Call Stack and JavaScript Call Stack | [right click here](https://dima-zeklam.github.io/reading-notes/read10)
-authorization and authentication | [right click here](https://dima-zeklam.github.io/reading-notes/read11)
+Authorization and Authentication | [right click here](https://dima-zeklam.github.io/reading-notes/read11)
 
 # 401 - Advanced Software Development
 

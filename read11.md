@@ -1,4 +1,4 @@
-# authorization and authentication
+# Authorization and Authentication
 
 ![User Authentication](https://www.cisco.com/c/dam/assets/swa/img/anchor-info/what-is-user-authentication-628x353.png)
 
