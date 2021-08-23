@@ -12,7 +12,7 @@ vertically scalable| horizontally scalable
 scaled by increasing the horse-power of the hardware | scaled by increasing the databases servers in the pool of resources to reduce the load
 uses SQL ( structured query language ) for defining and manipulating the data | queries are focused on collection of documents. Sometimes it is also called as UnQL (Unstructured Query Language)
 SQL database examples: MySql, Oracle, Sqlite, Postgres and MS-SQL | NoSQL database examples: MongoDB, BigTable, Redis, RavenDb, Cassandra, Hbase, Neo4j and CouchDb
-QL databases are good fit for the complex query intensive environment | NoSQL don’t have standard interfaces to perform complex queries
+SQL databases are good fit for the complex query intensive environment | NoSQL don’t have standard interfaces to perform complex queries
 
 
 ### What kind of data is a good fit for an SQL database?
