@@ -3,8 +3,8 @@
 ### Fill in the chart below with five differences between SQL and NoSQL databases:
 ![SQL vs NoSQL](https://codersera.com/blog/wp-content/uploads/2019/12/SQL-VS-NoSQL-1.jpg)
 
-    SQL        | NoSQL
----------------|---------------
+SQL        |  NoSQL
+-----------|---------------
 Relational Databases (RDBMS) | non-relational or distributed database
 SQL databases are table based databases|document based, key-value pairs, graph databases or wide-column stores
 have predefined schema| ave dynamic schema for unstructured data
