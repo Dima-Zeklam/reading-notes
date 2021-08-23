@@ -56,6 +56,7 @@ FUNCTIONAL PROGRAMMING |[right click here](https://dima-zeklam.github.io/reading
 JavaScript Call Stack and JavaScript Call Stack | [right click here](https://dima-zeklam.github.io/reading-notes/read10)
 Authorization and Authentication | [right click here](https://dima-zeklam.github.io/reading-notes/read11)
 Mongo and Mongoose | [right click here](https://dima-zeklam.github.io/reading-notes/read12)
+CRUD | [right click here](https://dima-zeklam.github.io/reading-notes/read13)
 # 401 - Advanced Software Development
 
 
