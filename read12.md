@@ -6,6 +6,7 @@
 
     SQL        |     NoSQL
 ---------------|--------------
+
 Relational Databases (RDBMS) | non-relational or distributed database
 
 SQL databases are table based databases |  NoSQL databases are document based, key-value pairs, graph databases or wide-column stores
