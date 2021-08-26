@@ -1,9 +1,8 @@
 # 301  Intermediate Software Development
 
-#### In 301 at week 1 we started with React, how to make a React component, import and expoer them, at week2 we started with  API and leraned how to use it in our applications.
+#### In 301 at week 1 we started with React, how to make a React component, import and export them, at week2 we started with  API and  learned  how to use it in our applications.
 #### at week3 we learned About REST and how to create a DB using MongooseDB, take look on more topics from code 301 :
 
-# 301 - Intermediate Software Development
 
 Name    |  Link
 ------ | ------
