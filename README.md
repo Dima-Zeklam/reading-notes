@@ -18,7 +18,7 @@ JavaScript Expressions and operators | [right click here](https://dima-zeklam.gi
 JavaScript Loops and iteration | [right click here](https://dima-zeklam.github.io/reading-notes/read08)
 
 # 201 - Foundations of Software Development
-* Table of content
+# Table of content
 
 Name    |  Link
 ------ | ------
@@ -38,12 +38,11 @@ THE PAST, PRESENT & FUTURE OF LOCAL STORAGE FOR WEB APPLICATIONS | [right click 
 CSS Transforms, Transitions, and Animations | [right click here](https://dima-zeklam.github.io/reading-notes/class-14a)
  What Google Learned About Teams  | [right click here](https://dima-zeklam.github.io/reading-notes/class-14b)
  
-
 # 301 - Intermediate Software Development
-* Table of content
 
+* Table of content
 Name    |  Link
------- | ------
+--------|--------
 Introduction to React and Components |  [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class%2001)
 State and Props|[right click here](https://dima-zeklam.github.io/reading-notes/Read:Class02)
 Passing Functions as Props | [right click here](https://dima-zeklam.github.io/reading-notes/Read:Class03)
@@ -58,6 +57,7 @@ Authorization and Authentication | [right click here](https://dima-zeklam.github
 Mongo and Mongoose | [right click here](https://dima-zeklam.github.io/reading-notes/read12)
 CRUD | [right click here](https://dima-zeklam.github.io/reading-notes/read13)
 301 topics | [right click here](https://dima-zeklam.github.io/reading-notes/read14)
+
 # 401 - Advanced Software Development
 
 
