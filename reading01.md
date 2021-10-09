@@ -22,7 +22,9 @@ The System class has an arraycopy method that you can use to efficiently copy da
                              Object dest, int destPos, int length)
 
 ### Primitive Data Types
+
  The eight primitive data types supported by the Java programming language are:
+ 
 Data Type |	Default Value |	Default size
 ----------|---------------|-------------
 boolean	| false	|1 bit

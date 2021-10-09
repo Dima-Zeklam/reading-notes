@@ -60,7 +60,9 @@ CRUD | [right click here](https://dima-zeklam.github.io/reading-notes/read13)
 301 topics | [right click here](https://dima-zeklam.github.io/reading-notes/read14)
 
 # 401 - Advanced Software Development
+
 Name    |  Link
 --------|--------
 Java Language Basics | [right click here](https://dima-zeklam.github.io/reading-notes/reading01)
+
 
