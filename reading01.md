@@ -1,6 +1,5 @@
-# Java
+# Java Language Basics
 ![java](https://vipaa.net/wp-content/uploads/2021/08/java.jpg)
-## Java Language Basics
 
 ### Variables
 A Java variable is a piece of memory that can contain a data value and Variable names are case-sensitive.
