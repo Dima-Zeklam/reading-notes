@@ -18,7 +18,7 @@ An array is a container object that holds a fixed number of values of a single t
 ##### Copying Arrays
 The System class has an arraycopy method that you can use to efficiently copy data from one array into another:
 
->> public static void arraycopy(Object src, int srcPos,
+> public static void arraycopy(Object src, int srcPos,
                              Object dest, int destPos, int length)
 
 ### Primitive Data Types
@@ -26,7 +26,7 @@ The System class has an arraycopy method that you can use to efficiently copy da
 Data Type |	Default Value |	Default size
 ----------|---------------|-------------
 boolean	| false	|1 bit
-char	v'\u0000' v	2 byte
+char	| '\u0000' |	2 byte
 byte|	0	| 1 byte
 short |	0	|2 byte
 int	| 0	| 4 byte
@@ -35,7 +35,9 @@ float|	0.0f	|4 byte
 double|	0.0d	|8 byte
 
 ### Operators
+
 Operators |	Precedence
+----------|-----------
 postfix  |	expr++ expr--
 unary	| ++expr --expr +expr -expr ~ !
 multiplicative |	* / %
