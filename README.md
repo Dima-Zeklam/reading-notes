@@ -64,5 +64,5 @@ CRUD | [right click here](https://dima-zeklam.github.io/reading-notes/read13)
 Name    |  Link
 --------|--------
 Java Language Basics | [right click here](https://dima-zeklam.github.io/reading-notes/reading01)
-
+Arrays, Loops, Imports | [right click here](https://dima-zeklam.github.io/reading-notes/reading02)
 
