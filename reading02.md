@@ -43,7 +43,9 @@ Less coding is required if you have access any static member of a class oftenly.
 
 * Disadvantage of static import:
 If you overuse the static import feature, it makes the program unreadable and unmaintainable.
+
 **Example:**
+
 ```
 import static java.lang.System.*;    
 class StaticImportExample{  
@@ -58,16 +60,15 @@ class StaticImportExample{
 
 ### Loops
 In programming languages, **looping is a feature which facilitates the execution of a set of instructions until the controlling Boolean-expression evaluates to false.**
-Here are the types of loops that we can find in Java:
-1.  For Loop 
-*** When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop.**
+Here are the types of loops that we can find in Java:  
+
+1. **For Loop When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop.**
 The syntax of the for loop is:
 
 >for (initialization; Boolean-expression; step) 
 >  statement;
 
-2. for-each loop
-**It is mainly used to traverse the array or collection elements.**
+2. **for-each loop It is mainly used to traverse the array or collection elements.**
  
 * It starts with the keyword for like a normal for-loop.
 * Instead of declaring and initializing a loop counter variable, you declare a variable that is the same type as the base type of the array, followed by a colon, which is then followed by the array name.
@@ -84,15 +85,13 @@ Syntax:
 
 ![for loop](https://static.javatpoint.com/cpages/images/forloop.png)
 
-3. while loop
-**Loops can execute a block of code as long as a specified condition is reached.**
+3. **while loop Loops can execute a block of code as long as a specified condition is reached.**
 The syntax of the while loop is:
 
 >while (Boolean-expression) 
 >    statement;
-
-4. Do-while loop
-**The do-while loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.**
+ 
+4. **Do-while loop The do-while loop will execute the code block once, before checking if the condition is true, then it will repeat the loop as long as the condition is true.**
 The syntax of the do-while is:
 > do {
 >   statement;
