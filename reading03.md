@@ -15,6 +15,7 @@ Interface |	It is implemented by Java classes.
 Enumeration |	It is a special kind of class that is type-safe.
 
 #### Reference vs Primitive Data Types
+
 Reference Type |	Primitive Type
 -------------- |----------------
 It is not pre-defined except the String. |	It is pre-defined in Java.
@@ -84,7 +85,9 @@ An event that occurs during the execution of a program that disrupts the normal 
 ![ Types of Java Exceptions](https://static.javatpoint.com/core/images/types-of-exception-handling.png)
 
 ##### Exception Keywords
-Keyword	Description
+
+Keyword |	Description
+--------|-------------
 try	| The "try" keyword is used to specify a block where we should place an exception code. It means we can't use try block alone. The try block must be followed by either catch or finally.
 catch |	The "catch" block is used to handle the exception. It must be preceded by try block which means we can't use catch block alone. It can be followed by finally block later.
 finally	| The "finally" block is used to execute the necessary code of the program. It is executed whether an exception is handled or not.
