@@ -65,4 +65,6 @@ Name    |  Link
 --------|--------
 Java Language Basics | [right click here](https://dima-zeklam.github.io/reading-notes/reading01)
 Arrays, Loops, Imports | [right click here](https://dima-zeklam.github.io/reading-notes/reading02)
+ primitive and reference data type, Exceptions and Scanner in java | [right click here](https://dima-zeklam.github.io/reading-notes/reading03)
+
 
