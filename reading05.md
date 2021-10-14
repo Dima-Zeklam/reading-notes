@@ -33,10 +33,10 @@ ptr = head;
 Describe the amount of time(how long a function takes to complete) and space (how much memory a function consumes while executing) that the function will takes.
 
 Big O’s role is to describe the Worst Case of efficiency, It specifically looks at the factors mentioned Space and Time to analyze these limiting factors, we should consider 4 Key Areas for analysis:
-1. Input Size - when we use array as parameter will directly increase the Input Size for the function.
-2. Units of Measurement - The time in millisecondsm the number of lines of code that are executed and the number of “Basic Operations” that are executed specify the Running Time in our analysis.The the number of bytes required to store the characters and The additional Memory Space  to hold the input data and output data and the stack Space of recursive function calls specify the Memory Space.
+1. *Input Size* - when we use array as parameter will directly increase the Input Size for the function.
+2. *Units of Measurement* - The time in millisecondsm the number of lines of code that are executed and the number of “Basic Operations” that are executed specify the Running Time in our analysis.The the number of bytes required to store the characters and The additional Memory Space  to hold the input data and output data and the stack Space of recursive function calls specify the Memory Space.
  
-3. Orders of Growth
+3. *Orders of Growth*
 
 Examples: 
 ##### This algorithm has an O(1) constant efficiency
@@ -122,7 +122,7 @@ ALGORITHM FibonacciIndex(number n)
 
     return FibonacciIndex(n - 1) + FibonacciIndex(n - 2);
 ```
-4. Best Case, Worst Case, and Average Case
+**Best Case, Worst Case, and Average Case**
 * Worst Case: The efficiency for the worst possible input of size n
 * Best Case: The efficiency for the best possible input of size which it runs the quickest for all possible inputs of n.
 * Average Case: The efficiency for a “typical” or “random” input of size n.
