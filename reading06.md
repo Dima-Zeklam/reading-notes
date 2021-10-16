@@ -20,8 +20,6 @@ Each class has a name, and each is used to define attributes and behavior.
 
 #### The differences between Objects and Classes:
 
-![Objects vs Classes](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-08-27-10-39-14-1.png)
-
 Class	| Object
 --------|--------
 A class is a blueprint from which you can create the an objects |An object is the instance of the class, which helps programmers to use variables and methods from inside the class
