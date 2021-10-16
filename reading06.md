@@ -5,7 +5,8 @@ Object-oriented programming is a model that provides different types of concepts
 
 
 ## Objects 
-* Objects have charactaristics, which are used to describe them.for example a mug can be full or empty, a car can be red or black, and so on .these charactaristics are called **attributes**.
+* Objects have  characteristics, which are used to describe them.
+ for example a mug can be full or empty, a car can be red or black, and so on .these  characteristics are called **attributes**.
 
 * Object is  entity that has state which is the data of the object and behavior.
 * an object is an **instance** of a class.
@@ -19,7 +20,8 @@ Each class has a name, and each is used to define attributes and behavior.
 
 #### The differences between Objects and Classes:
 
-!(Objects vs Classes)[https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-08-27-10-39-14-1.png]
+![Objects vs Classes](https://media.geeksforgeeks.org/wp-content/uploads/Screenshot-from-2018-08-27-10-39-14-1.png)
+
 Class	| Object
 --------|--------
 A class is a blueprint from which you can create the an objects |An object is the instance of the class, which helps programmers to use variables and methods from inside the class
