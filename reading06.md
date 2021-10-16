@@ -6,6 +6,7 @@ Object-oriented programming is a model that provides different types of concepts
 
 ## Objects 
 * Objects have charactaristics, which are used to describe them.for example a mug can be full or empty, a car can be red or black, and so on .these charactaristics are called **attributes**.
+
 * Object is  entity that has state which is the data of the object and behavior.
 * an object is an **instance** of a class.
 * Example on software object:
@@ -122,7 +123,8 @@ class MountainBike extends Bicycle {
 * Constructors are not member methods, and so are not inherited by subclasses.
 * You can access the superclass from the subclass using the super keyword.
 
-##### read more about [ Object-Oriented Programming](https://docs.oracle.com/javase/tutorial/java/concepts/)
+##### read more about [ Object-Oriented Programming](https://docs.oracle.com/javase/tutorial/java/concepts/).
+
 
 
 
