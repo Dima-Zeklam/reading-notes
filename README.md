@@ -66,6 +66,6 @@ Name    |  Link
 Java Language Basics | [right click here](https://dima-zeklam.github.io/reading-notes/reading01)
 Arrays, Loops, Imports | [right click here](https://dima-zeklam.github.io/reading-notes/reading02)
  primitive and reference data type, Exceptions and Scanner in java | [right click here](https://dima-zeklam.github.io/reading-notes/reading03)
-OOP | [right click here](https://dima-zeklam.github.io/reading-notes/reading04)
+OOP & Binary, Decimal and Hexadecimal Numbers | [right click here](https://dima-zeklam.github.io/reading-notes/reading04)
 Linked List | [right click here](https://dima-zeklam.github.io/reading-notes/reading05)
-
+Object Oriented Programming  | [right click here](https://dima-zeklam.github.io/reading-notes/reading06)
