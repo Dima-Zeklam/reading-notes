@@ -108,7 +108,9 @@ Is the process that enables one class to acquire the properties (methods and var
 * The class inheriting the properties of another is the subclass (also called derived class, or child class); the class whose properties are inherited is the superclass (base class, or parent class).
 
 * To inherit from a class, use the extends keyword.
+
 *Example*
+
 ```
 class MountainBike extends Bicycle {
 
