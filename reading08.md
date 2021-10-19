@@ -7,7 +7,7 @@
 Is a software development principle,  is the principle of reducing repetition in the code, referring back to a single source of reusable code whenever you need it.
 Duplication in process is also waste if it can be automated.
 ##### Why you don't hava to repeat Yourself?
-When you write code that performs the same tasks over and over again, any modification of one task requires the same change to be made to every single instance of that task! Editing every instance of a task is a lot of work.
+When you write code that performs the same tasks over and over again, any modification of one task requires the same change to be made to every single instance of that task. Editing every instance of a task is a lot of work.
 Instead, you can create functions that perform those tasks, using sets of arguments or inputs to specify how the task is performed.
 
 
