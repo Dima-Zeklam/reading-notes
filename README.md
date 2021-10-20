@@ -70,3 +70,5 @@ OOP & Binary, Decimal and Hexadecimal Numbers | [right click here](https://dima-
 Linked List | [right click here](https://dima-zeklam.github.io/reading-notes/reading05)
 Object Oriented Programming  | [right click here](https://dima-zeklam.github.io/reading-notes/reading06)
 OO Design | [right click here](https://dima-zeklam.github.io/reading-notes/reading08)
+WRRC and Java | [right click here](https://dima-zeklam.github.io/reading-notes/reading09)
+
