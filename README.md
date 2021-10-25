@@ -73,3 +73,4 @@ OO Design | [right click here](https://dima-zeklam.github.io/reading-notes/readi
 WRRC and Java | [right click here](https://dima-zeklam.github.io/reading-notes/reading09)
 Stacks and Queues | [right click here](https://dima-zeklam.github.io/reading-notes/reading10)
 Spring | [right click here](https://dima-zeklam.github.io/reading-notes/reading11)
+Spring RESTful Routing & Static Files | [right click here](https://dima-zeklam.github.io/reading-notes/reading12)
