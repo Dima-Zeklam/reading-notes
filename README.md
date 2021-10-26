@@ -74,3 +74,4 @@ WRRC and Java | [right click here](https://dima-zeklam.github.io/reading-notes/r
 Stacks and Queues | [right click here](https://dima-zeklam.github.io/reading-notes/reading10)
 Spring | [right click here](https://dima-zeklam.github.io/reading-notes/reading11)
 Spring RESTful Routing & Static Files | [right click here](https://dima-zeklam.github.io/reading-notes/reading12)
+Related Resources and Integration Testing | [right click here](https://dima-zeklam.github.io/reading-notes/reading13)

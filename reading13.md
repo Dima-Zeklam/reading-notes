@@ -1,4 +1,4 @@
-#
+# Related Resources and Integration Testing
 
 ## The relationships between entities in Spring Data REST
 1. One-to-One Relationship
