@@ -76,3 +76,4 @@ Spring | [right click here](https://dima-zeklam.github.io/reading-notes/reading1
 Spring RESTful Routing & Static Files | [right click here](https://dima-zeklam.github.io/reading-notes/reading12)
 Related Resources and Integration Testing | [right click here](https://dima-zeklam.github.io/reading-notes/reading13)
 Trees | [right click here](https://dima-zeklam.github.io/reading-notes/reading14)
+Spring Security Architecture | [right click here](https://dima-zeklam.github.io/reading-notes/reading15)
