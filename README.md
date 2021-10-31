@@ -77,4 +77,4 @@ Spring RESTful Routing & Static Files | [right click here](https://dima-zeklam.g
 Related Resources and Integration Testing | [right click here](https://dima-zeklam.github.io/reading-notes/reading13)
 Trees | [right click here](https://dima-zeklam.github.io/reading-notes/reading14)
 Spring Security Architecture | [right click here](https://dima-zeklam.github.io/reading-notes/reading15)
-Spring Boot and OAuth2 | [right click here](https://dima-zeklam.github.io/reading-notes/reading16)
+Spring Boot and OAuth2 | [right click here]
