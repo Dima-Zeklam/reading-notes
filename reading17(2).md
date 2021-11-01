@@ -22,7 +22,7 @@ both the Employee class and Project classes refer to one another, which means th
 
 ## This World of Ours
 
-The article [This World of Ours](https://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf) includes stories and real-life examples about the danger that we may face because of the weak security for our accounts,  using Dangerous Websites or get untrust email and other, which may lead to steal the personal information and use it in a way that will damage the owner and more. 
+The article [This World of Ours](https://scholar.harvard.edu/files/mickens/files/thisworldofours.pdf) includes stories and real-life examples about the danger that we may face because of the weak security for our accounts,  using Dangerous Websites or get untrusty email and other, which may lead to steal the personal information and use it in a way that will damage the owner and more. 
 So one of the thigs we need to pay attention to is to make the PASSWORD stronger, here are some advices to Creating strong passwords: 
 
 1. Never use sequential numbers or letters, and for the love of all things cyber, do not use “password” as your password.
