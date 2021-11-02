@@ -82,6 +82,7 @@ public class GreetingController {
 
 4. Configure Spring for STOMP messaging
 * Create a Java class named WebSocketConfig
+
 ```
 @Configuration 
 @EnableWebSocketMessageBroker
@@ -112,7 +113,7 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
 
     * The **connect()** function :  uses SockJS and stomp.js to open a connection to /gs-guide-websocket, which is where our SockJS server waits for connections.
     * The **sendName()** function :  retrieves the name entered by the user and uses the STOMP client to send it to the /app/hello destination (where GreetingController.greeting() will receive it).
-    
+
 
 ```
 var stompClient = null;
