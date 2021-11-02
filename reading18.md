@@ -11,8 +11,11 @@ Text Oriented Message Protocol (STOMP),STOMP provides an interoperable wire form
 You will build a server that accepts a message that carries a user’s name. In response, the server will push a greeting into a queue to which the client is subscribed.
 
 ### First we need to :
-    * Download and unzip the source repository for this guide, or clone it using Git: git clone [https://github.com/spring-guides/gs-messaging-stomp-websocket.git](https://github.com/spring-guides/gs-messaging-stomp-websocket)
+
+    * Download and unzip the source repository for this guide, or clone it using Git: git clone [https://github.com/spring-guides/gs-messaging-stomp-websocket.git](https://github.com/spring-guides/gs-messaging-stomp-websocket).
+
     * cd into gs-messaging-stomp-websocket/initial
+
 
 ### Create a Resource Representation Class:
 * Create The Model that carries the name:
@@ -167,9 +170,9 @@ $(function () {
     $( "#send" ).click(function() { sendName(); });
 });
 ```
-### run your application .
+* After that run your application .
 
-### Test the service 
+* Test the service 
 
 
 #### Other guides [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/) , [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
