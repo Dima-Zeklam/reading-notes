@@ -99,6 +99,7 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
   }
 
 ```
+
 `@Configuration`: to indicate that it is a Spring configuration class.
 `@EnableWebSocketMessageBroker` : enables WebSocket message handling, backed by a message broker.
 `WebSocketMessageBrokerConfigurer`: to configure the message broker.
@@ -106,9 +107,12 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
 
 
 5. Create a Browser Client
+
 * Create HTML file that imports the SockJS and STOMP javascript libraries that will be used to communicate with our server through STOMP over websocketm and import app.js, which contains the logic of our client application. app.js file contain the following:
+
     * The **connect()** function :  uses SockJS and stomp.js to open a connection to /gs-guide-websocket, which is where our SockJS server waits for connections.
     * The **sendName()** function :  retrieves the name entered by the user and uses the STOMP client to send it to the /app/hello destination (where GreetingController.greeting() will receive it).
+    
 
 ```
 var stompClient = null;
