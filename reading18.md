@@ -10,11 +10,11 @@ Text Oriented Message Protocol (STOMP),STOMP provides an interoperable wire form
 ### What We Will build ?
 You will build a server that accepts a message that carries a user’s name. In response, the server will push a greeting into a queue to which the client is subscribed.
 
-1. First we need to :
+### First we need to :
     * Download and unzip the source repository for this guide, or clone it using Git: git clone [https://github.com/spring-guides/gs-messaging-stomp-websocket.git](https://github.com/spring-guides/gs-messaging-stomp-websocket)
     * cd into gs-messaging-stomp-websocket/initial
 
-2. Create a Resource Representation Class:
+### Create a Resource Representation Class:
 * Create The Model that carries the name:
 
 ```
@@ -64,7 +64,7 @@ public class Greeting {
 }
 ```
 
-3. Create a Message-handling Controller
+### Create a Message-handling Controller
 * have to  create a controller to receive the hello message and send a greeting message.
 
 ```
@@ -80,7 +80,7 @@ public class GreetingController {
   }
 ```
 
-4. Configure Spring for STOMP messaging
+### Configure Spring for STOMP messaging
 * Create a Java class named WebSocketConfig
 
 ```
@@ -107,7 +107,7 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
 `enableSimpleBroker()`: to enable a simple memory-based message broker to carry the greeting messages back to the client on destinations prefixed with /topic.
 
 
-5. Create a Browser Client
+### Create a Browser Client
 
 * Create HTML file that imports the SockJS and STOMP javascript libraries that will be used to communicate with our server through STOMP over websocketm and import app.js, which contains the logic of our client application. app.js file contain the following:
 
@@ -167,9 +167,9 @@ $(function () {
     $( "#send" ).click(function() { sendName(); });
 });
 ```
-5. run your application .
+### run your application .
 
-6. Test the service 
+### Test the service 
 
 
 #### Other guides [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/) , [Building an Application with Spring Boot](https://spring.io/guides/gs/spring-boot/)
