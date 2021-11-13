@@ -80,3 +80,4 @@ Spring Security Architecture | [right click here](https://dima-zeklam.github.io/
 Spring Boot and OAuth2 | [right click here](https://dima-zeklam.github.io/reading-notes/reading16)
 Many to many relationships & Web App Security| [right click here](https://dima-zeklam.github.io/reading-notes/reading17(2))
 Spring and Sockets | [right click here](https://dima-zeklam.github.io/reading-notes/reading18)
+Android fundamentals | [right click here](https://dima-zeklam.github.io/reading-notes/reading19)
