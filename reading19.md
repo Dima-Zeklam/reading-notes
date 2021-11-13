@@ -62,4 +62,28 @@ Content Providers |	They handle data and database management issues.
     </application>
 </manifest>
 ```
+
+### Declaring app requirements
+Example on app requires a camera and uses APIs introduced in Android 8.0 (API Level 26), you must declare the values for `minSdkVersion` and `targetSdkVersion` are set in your app module's build.gradle file:
+
+```
+android {
+  ...
+  defaultConfig {
+    ...
+    minSdkVersion 26
+    targetSdkVersion 29
+  }
+}
+```
+and Declare the camera feature directly in your app's manifest file:
+
+```
+<manifest ... >
+    <uses-feature android:name="android.hardware.camera.any"
+                  android:required="true" />
+    ...
+</manifest>
+```
+
 * Read more about [Android apps](https://developer.android.com/guide/components/fundamentals)
