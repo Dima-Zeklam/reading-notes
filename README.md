@@ -83,3 +83,4 @@ Spring and Sockets | [right click here](https://dima-zeklam.github.io/reading-no
 Android fundamentals | [right click here](https://dima-zeklam.github.io/reading-notes/reading19)
 Intents, Activities, and SharedPreferences| [right click here](https://dima-zeklam.github.io/reading-notes/reading20)
 RecyclerView | [right click here](https://dima-zeklam.github.io/reading-notes/reading21)
+Room | [right click here](https://dima-zeklam.github.io/reading-notes/reading22)
