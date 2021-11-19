@@ -1,5 +1,6 @@
 # Espresso
 ![Espresso](Espresso.png)
+
 **Espresso** is a testing framework for Android to make it easy to write reliable user interface tests.
 
 #### Espresso has basically three components:
