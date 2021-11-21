@@ -20,6 +20,7 @@ Lambda is a compute service that lets you run code without provisioning or manag
 ![Lambda](https://stackify.com/wp-content/uploads/2018/03/AWS-Lambda-serverless-computing-881x441.png)
 
 ### advantages and disadvantages of serverless architecture
+
 Advantages of serverless computing |	Disadvantages of serverless computing
 -----------------------------------|---------------------------------------
 The provider scales and manages the required resources|	No access to virtual machines, operating system or runtime environments 
