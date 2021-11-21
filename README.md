@@ -86,3 +86,4 @@ RecyclerView | [right click here](https://dima-zeklam.github.io/reading-notes/re
 Room | [right click here](https://dima-zeklam.github.io/reading-notes/reading22)
 Hash Tables |  [right click here](https://dima-zeklam.github.io/reading-notes/reading23)
 Espresso | [right click here](https://dima-zeklam.github.io/reading-notes/reading24)
+Serverless and Amplify | [right click here](https://dima-zeklam.github.io/reading-notes/reading25)
