@@ -89,3 +89,4 @@ Espresso | [right click here](https://dima-zeklam.github.io/reading-notes/readin
 Serverless and Amplify | [right click here](https://dima-zeklam.github.io/reading-notes/reading25)
 GraphQL @connection | [right click here](https://dima-zeklam.github.io/reading-notes/reading26)
 Android Monetization |[Android Monetization](https://dima-zeklam.github.io/reading-notes/reading27)
+Graphs  |[Android Monetization](https://dima-zeklam.github.io/reading-notes/reading28)
