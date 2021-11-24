@@ -1,5 +1,5 @@
 # Graphs
-Graphs non-linear data structure consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph.used to represent the connection between pairs of objects.
+Graphs non-linear data structure consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph. used to represent the connection between pairs of objects.
 
 ### Some common terminology:
 * **Vertex** − Each node of the graph is represented as a vertex. is a data object that can have zero or more adjacent vertices.
@@ -106,7 +106,7 @@ ALGORITHM BreadthFirst(vertex)
     return nodes;
 ```
 ##### Depth First traversal
-Is algorithm traverses a graph in a depthward motion and uses a stack to remember to get the next vertex to start a search, when a dead end occurs in any iteration.It employs the following rules:
+Is algorithm traverses a graph in a depthward motion and uses a stack to remember to get the next vertex to start a search, when a dead end occurs in any iteration. It employs the following rules:
 
 1. Visit the adjacent unvisited vertex. Mark it as visited. Display it. Push it in a stack.
 
