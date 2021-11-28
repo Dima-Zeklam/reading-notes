@@ -90,3 +90,4 @@ Serverless and Amplify | [right click here](https://dima-zeklam.github.io/readin
 GraphQL @connection | [right click here](https://dima-zeklam.github.io/reading-notes/reading26)
 Android Monetization |[right click here](https://dima-zeklam.github.io/reading-notes/reading27)
 Graphs  |[right click here](https://dima-zeklam.github.io/reading-notes/reading28)
+Cognito  |[right click here](https://dima-zeklam.github.io/reading-notes/reading29)
