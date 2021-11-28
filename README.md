@@ -91,3 +91,4 @@ GraphQL @connection | [right click here](https://dima-zeklam.github.io/reading-n
 Android Monetization |[right click here](https://dima-zeklam.github.io/reading-notes/reading27)
 Graphs  |[right click here](https://dima-zeklam.github.io/reading-notes/reading28)
 Cognito  |[right click here](https://dima-zeklam.github.io/reading-notes/reading29)
+Amazon S3 |[right click here](https://dima-zeklam.github.io/reading-notes/reading30)
