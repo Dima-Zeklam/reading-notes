@@ -92,3 +92,4 @@ Android Monetization |[right click here](https://dima-zeklam.github.io/reading-n
 Graphs  |[right click here](https://dima-zeklam.github.io/reading-notes/reading28)
 Cognito  |[right click here](https://dima-zeklam.github.io/reading-notes/reading29)
 Amazon S3 |[right click here](https://dima-zeklam.github.io/reading-notes/reading30)
+Amazon Simple Notification Service (Amazon SNS)  |[right click here](https://dima-zeklam.github.io/reading-notes/reading31)
