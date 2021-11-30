@@ -62,8 +62,9 @@ Streams is a fully managed service for real-time processing of streaming data at
 ### Amazon Kinesis Data Firehose
  With Kinesis Data Firehose,you configure your data producers to send data to Firehose and it automatically delivers the data to the destination that you specified.
 
- ### Integrating Amazon Kinesis
-1. Need to add this dependencies to your app's `build.gradle`
+### Integrating Amazon Kinesis
+
+* Need to add this dependencies to your app's `build.gradle`
  ```
 dependencies {
   //enables sending analytics to Amazon Kinesis.
@@ -72,14 +73,14 @@ dependencies {
   implementation 'com.amazonaws:aws-android-sdk-mobile-client:2.36.0'
 }
 ```
-2. Add the following imports to the main activity of your app.
+* Add the following imports to the main activity of your app.
 
 ```
 import com.amazonaws.mobileconnectors.kinesis.kinesisrecorder.*;
 import com.amazonaws.mobile.client.AWSMobileClient;
 import com.amazonaws.regions.Regions;
 ```
-3. to allows the user to submit records to a specific data stream use the following IAM policy:
+* to allows the user to submit records to a specific data stream use the following IAM policy:
 
 ```
 {
