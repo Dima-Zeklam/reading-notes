@@ -91,7 +91,7 @@ import com.amazonaws.regions.Regions;
     }]
 }
 ```
-4. To allows the user to submit records to a specific Kinesis Data Firehose delivery stream use the following IAM policy:
+* To allows the user to submit records to a specific Kinesis Data Firehose delivery stream use the following IAM policy:
 
 ```
 {
