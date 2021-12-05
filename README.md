@@ -96,3 +96,4 @@ Amazon Simple Notification Service (Amazon SNS)  |[right click here](https://dim
  Amplify and Kinesis|[right click here](https://dima-zeklam.github.io/reading-notes/reading32)
  Intent Filters | [right click here](https://dima-zeklam.github.io/reading-notes/reading33)
   Location | [right click here](https://dima-zeklam.github.io/reading-notes/reading42)
+Ethics | [right click here](https://dima-zeklam.github.io/reading-notes/reading42b)
