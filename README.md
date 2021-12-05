@@ -95,3 +95,4 @@ Amazon S3 |[right click here](https://dima-zeklam.github.io/reading-notes/readin
 Amazon Simple Notification Service (Amazon SNS)  |[right click here](https://dima-zeklam.github.io/reading-notes/reading31)
  Amplify and Kinesis|[right click here](https://dima-zeklam.github.io/reading-notes/reading32)
  Intent Filters | [right click here](https://dima-zeklam.github.io/reading-notes/reading33)
+  Location | [right click here](https://dima-zeklam.github.io/reading-notes/reading34)
