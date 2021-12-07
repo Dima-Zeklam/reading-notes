@@ -98,3 +98,4 @@ Amazon Simple Notification Service (Amazon SNS)  |[right click here](https://dim
   Location | [right click here](https://dima-zeklam.github.io/reading-notes/reading42)
 Ethics | [right click here](https://dima-zeklam.github.io/reading-notes/reading42b)
 Amplify and Kinesis  | [right click here](https://dima-zeklam.github.io/reading-notes/reading43)
+OSS Contributions | [right click here](https://dima-zeklam.github.io/reading-notes/reading43b)
