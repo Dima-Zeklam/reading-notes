@@ -42,6 +42,8 @@ A **component** is a software object, intended to interact with other components
 ## Props in React?
 1. What is props short for?
 **Props** is a special keyword in React, which stands for properties and is being used for passing data from one component to another.
+* Props uni-directional flow. (one way from parent to child) 
+* props data is read-only, which means that data coming from the parent should not be changed by child components.
 2. How are props used in React?
 Firstly, define an attribute and its value(data), Then pass it to child component(s) by using Props, Finally, render the Props Data.
 
