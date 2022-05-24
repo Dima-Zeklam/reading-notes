@@ -78,7 +78,7 @@ Object {
 */
 ```
 
-##
+## Pass Functions Between Components
 ### 1. In the video, what is the first step that the developer does to pass functions between components?
 create arrow function that contain map method to loop over the array and pass there values.
 
@@ -94,11 +94,12 @@ when click the button the function will add 1 to the variable counter, and make 
 3. Then inside your parent function create another function to run our desire event and pass the child component to return.
 
 ### 4. How does the child component invoke a method that was passed to it from a parent component?
-
-
 Create a boolean variable in the state in the parent class. Update this when you want to call a function. Create a prop variable and assign the boolean variable. From the child component access that variable using props and execute the method you want by having an if condition.
 
-## Things I want to know more about
-* I want to know more about React and React Component.
-* JSX .
-
+### Resources
+* [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+* [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
+* [Vedio about How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+### Read more about :
+* [React Docs - Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+* [React Docs - Lifting State Up ](https://reactjs.org/docs/lifting-state-up.html)
