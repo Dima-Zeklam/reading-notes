@@ -99,7 +99,7 @@ Create a boolean variable in the state in the parent class. Update this when you
 ### Resources
 * [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
 * [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
-* [Vedio about How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
+* [Video about How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 ### Read more about :
 * [React Docs - Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
 * [React Docs - Lifting State Up ](https://reactjs.org/docs/lifting-state-up.html)
