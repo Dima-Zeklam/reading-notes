@@ -35,14 +35,3 @@ using a controlled component to fill out a form is a perfectly valid use of loca
 * *Bootstrap*
 
 #### More resources About [Where to Hold React Component Data: state, store, static, and this](https://www.freecodecamp.org/news/where-do-i-belong-a-guide-to-saving-react-component-data-in-state-store-static-and-this-c49b335e2a00/)
-
-### Resources [Component Lifecycle Events](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093) , [React State Vs Props](https://reactjs.org/docs/state-and-lifecycle.html) .
-
-### Bookmark and Review
-* [SyntheticEvent](https://reactjs.org/docs/events.html)
-* [React Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
-* [React Docs - handling events](https://reactjs.org/docs/handling-events.html)
-* [React Bootstrap Documentation](https://react-bootstrap.github.io/getting-started/introduction)
-* [Boootstrap Cheatsheet](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-* [Bootstrap Shuffle - Bootstrap CSS classes - a class “sandbox”](https://bootstrapshuffle.com/classes)
-* [Netlify](https://en.wikipedia.org/wiki/Netlify)
