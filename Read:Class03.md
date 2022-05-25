@@ -20,7 +20,7 @@ const listItems = numbers.map((number) =>
   </li>
 );
 ```
-Read more about [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
+
 
 ## The Spread Operator 
 

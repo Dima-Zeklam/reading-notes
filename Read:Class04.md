@@ -3,6 +3,7 @@
 ### React Docs - Forms
 #### 1. What is a ‘Controlled Component’?
 A controlled component is a component that renders form elements and controls them by keeping the form data in the component's state.
+controlled component an input form element whose value is controlled by React in this way.
 
 #### 2.Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
 We have to update the state with their responses as soon as they enter them, because React doesn’t track the input’s state.
@@ -32,5 +33,10 @@ x === y ?  console.log(true) :  console.log(false);
 ```
 
 ## Things I want to know more about
-* Python 
 * react-bootstrap
+
+### Resources
+* [React Docs - Form](https://reactjs.org/docs/forms.html)
+* [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+### See about :
+* [React Bootstrap - Forms](https://react-bootstrap.github.io/forms/overview/)
