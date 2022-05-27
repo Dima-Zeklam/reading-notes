@@ -34,6 +34,7 @@ Deploying your static website
 * If you can’t find a component where it makes sense to own the state, create a new component solely for holding the state and add
 * it somewhere in the hierarchy above the common owner component.
 
-## Things I want to know more about
-* inverse data flow in React
-* SRP
+### Resources
+* [React Docs - Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+* [Higher-order functions](https://eloquentjavascript.net/05_higher_order.html#h_xxCc98lOBK)
+
